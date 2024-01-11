@@ -1,0 +1,10 @@
+[
+    {
+        "activity": "com.vv.test.SplashActivity",
+        "appLabel": "IPTV直播",
+        "iconFileName": "com.zb.tv.png",
+        "package": "com.zb.tv",
+        "versionCode": 3,
+        "versionName": "5.2.5"
+    }
+]
