@@ -215,9 +215,3 @@ NewTv惊悚悬疑,http://[2409:8087:2001:20:2800:0:df6e:eb18]/wh7f454c46tw248277
 「轮播」1905电影,http://120.220.196.43/hlslive2.ks-cdn.m1905.com/live/LIVE8J4LTCXPI7QJ5/index.m3u8
 湖南电影,http://nas.0731wang.com:14022/rtp/239.76.253.106:9000
 峨眉电影,http://wasky.iask.in:9100/udp/239.93.0.252:5140
-星空卫视（港）,http://wouu.net:9977/udp/239.93.0.156:2193
-凤凰中文（港）,http://[2409:8087:2001:20:2800:0:df6e:eb24]:80/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8
-凤凰资讯（港）,http://[2409:8087:2001:20:2800:0:df6e:eb27]:80/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8
-凤凰香港（港）,http://141.95.85.201:6666/livehttpplay?channel_id=30016&amp;fbl=$GWXL
-人间卫视（台）,https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/playlist.m3u8
-CATCHPLAY电影（台）,http://141.95.85.201:6666/livehttpplay?channel_id=10127
