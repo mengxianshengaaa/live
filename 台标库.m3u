@@ -559,15 +559,15 @@ http://141.95.85.201:6666/livehttpplay?channel_id=10128
 #EXTINF:-1 tvg-id="HBO HiTS" tvg-name="HBO HiTS" tvg-logo="https://live.fanmingming.com/tv/HBOHits.png" group-title="大陆外（部分网络无法使用）",HBO HiTS（美）
 
 #EXTINF:-1 tvg-id="HBO Signature" tvg-name="HBO Signature" tvg-logo="https://live.fanmingming.com/tv/HBOSignature.png" group-title="大陆外（部分网络无法使用）",HBO Signature（美）
-http://141.95.85.201:6666/livehttpplay?channel_id=20314
+
 #EXTINF:-1 tvg-id="动物星球" tvg-name="动物星球" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/AnimalPlanet.png" group-title="大陆外（部分网络无法使用）",动物星球（美）
-http://141.95.85.201:6666/livehttpplay?channel_id=20106
+
 #EXTINF:-1 tvg-id="CN卡通频道" tvg-name="CN卡通频道" tvg-logo="https://live.fanmingming.com/tv/CNCartoon.png" group-title="大陆外（部分网络无法使用）",CN卡通频道（美）
-http://141.95.85.201:6666/livehttpplay?channel_id=20048
+
 #EXTINF:-1 tvg-id="尼克兒童頻道" tvg-name="尼克兒童頻道" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/mengxianshengaaa/live/main/nikeertong.png" group-title="大陆外（部分网络无法使用）",尼克兒童頻道（美）
-http://141.95.85.201:6666/livehttpplay?channel_id=20089
+
 #EXTINF:-1 tvg-id="BBC新闻台" tvg-name="BBC新闻台" tvg-logo="https://live.fanmingming.com/tv/BBCWORLDNEWSASIA.png" group-title="大陆外（部分网络无法使用）",BBC新闻台（英）
 http://livetv.ktv.zone/60/play.m3u8
 #EXTINF:-1 tvg-id="BBCEarth" tvg-name="BBCEarth" tvg-logo="https://live.fanmingming.com/tv/BBCEarth.png" group-title="大陆外（部分网络无法使用）",BBCEarth（英）
-http://141.95.85.201:6666/livehttpplay?channel_id=20044
 
+#EXTINF:-1 tvg-id="ELTA影剧" tvg-name="ELTA影剧" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/mengxianshengaaa/live/main/eltayingju.png" group-title="大陆外（部分网络无法使用）",ELTA影剧（台）
