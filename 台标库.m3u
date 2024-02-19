@@ -453,17 +453,17 @@ http://141.95.85.201:6666/livehttpplay?channel_id=20062
 #EXTINF:-1 tvg-id="LSTime电影" tvg-name="LSTime电影台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/LSTIME.png" group-title="大陆外（部分网络无法使用）",龙祥电影（台）
 
 #EXTINF:-1 tvg-id="靖天电影" tvg-name="靖天电影" tvg-logo="https://live.fanmingming.com/tv/靖天电影.png" group-title="大陆外（部分网络无法使用）",靖天电影（台）
-http://141.95.85.201:6666/livehttpplay?channel_id=12037&fbl=$GWXL
+
 #EXTINF:-1 tvg-id="靖天映画" tvg-name="靖天映画" tvg-logo="https://live.fanmingming.com/tv/靖天映画.png" group-title="大陆外（部分网络无法使用）", 靖天映画（台）
-http://141.95.85.201:6666/livehttpplay?channel_id=16078
+
 #EXTINF:-1 tvg-id="靖天育乐" tvg-name="靖天育乐" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/mengxianshengaaa/live/main/jingtianyule.png" group-title="大陆外（部分网络无法使用）", 靖天育乐（台）
-http://141.95.85.201:6666/livehttpplay?channel_id=30020
+
 #EXTINF:-1 tvg-id="靖天欢乐" tvg-name="靖天欢乐" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/mengxianshengaaa/live/main/jingtianhuanle.png" group-title="大陆外（部分网络无法使用）", 靖天欢乐（台）
-http://141.95.85.201:6666/livehttpplay?channel_id=30021
+
 #EXTINF:-1 tvg-id="靖天卡通" tvg-name="靖天卡通" tvg-logo="https://live.fanmingming.com/tv/靖天卡通.png" group-title="大陆外（部分网络无法使用）", 靖天卡通（台）
-http://141.95.85.201:6666/livehttpplay?channel_id=16072
+
 #EXTINF:-1 tvg-id="靖天日本" tvg-name="靖天日本" tvg-logo="https://live.fanmingming.com/tv/靖天日本.png" group-title="大陆外（部分网络无法使用）", 靖天日本（台）
-http://141.95.85.201:6666/livehttpplay?channel_id=16077
+
 #EXTINF:-1 tvg-id="东森电影" tvg-name="东森电影台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCMovies.png" group-title="大陆外（部分网络无法使用）",东森电影（台）
 
 #EXTINF:-1 tvg-id="东森综合" tvg-name="东森综合台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCVariety.png" group-title="大陆外（部分网络无法使用）",东森综合（台）
@@ -501,37 +501,37 @@ http://141.95.85.201:6666/livehttpplay?channel_id=16077
 #EXTINF:-1 tvg-id="八大精彩" tvg-name="八大精彩" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/mengxianshengaaa/live/main/badajingcai.png" group-title="大陆外（部分网络无法使用）",八大精彩（台）
 
 #EXTINF:-1 tvg-id="八大戏剧" tvg-name="八大戏剧" tvg-logo="https://live.fanmingming.com/tv/GTVDramaHD.png" group-title="大陆外（部分网络无法使用）",八大戏剧（台）
-http://141.95.85.201:6666/livehttpplay?channel_id=20036
+
 #EXTINF:-1 tvg-id="八大综合" tvg-name="八大综合台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/GTVVarietyHD.png" group-title="大陆外（部分网络无法使用）",八大综合（台）
-http://141.95.85.201:6666/livehttpplay?channel_id=20068
+
 #EXTINF:-1 tvg-id="八大第一" tvg-name="八大第一台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/GTVOneHD.png" group-title="大陆外（部分网络无法使用）",八大第一（台）
-http://141.95.85.201:6666/livehttpplay?channel_id=20073
+
 #EXTINF:-1 tvg-id="八大娱乐" tvg-name="八大娱乐台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/GTVEntertainment.png" group-title="大陆外（部分网络无法使用）",八大娱乐（台）
-http://141.95.85.201:6666/livehttpplay?channel_id=20071
+
 #EXTINF:-1 tvg-id="三立都会" tvg-name="三立都会" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SETCity.png" group-title="大陆外（部分网络无法使用）",三立都会（台）
-http://141.95.85.201:6666/livehttpplay?channel_id=20100
+
 #EXTINF:-1 tvg-id="三立台湾" tvg-name="三立台湾" tvg-logo="https://live.fanmingming.com/tv/SETTaiwan.png" group-title="大陆外（部分网络无法使用）",三立台湾（台）
-http://141.95.85.201:6666/livehttpplay?channel_id=16074
+
 #EXTINF:-1 tvg-id="三立戏剧" tvg-name="三立戏剧" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/mengxianshengaaa/live/main/sanlixiju.png" group-title="大陆外（部分网络无法使用）",三立戏剧（台）
-http://141.95.85.201:6666/livehttpplay?channel_id=10125
+
 #EXTINF:-1 tvg-id="三立综合" tvg-name="三立综合" tvg-logo="https://live.fanmingming.com/tv/SETZonghe.png" group-title="大陆外（部分网络无法使用）",三立综合（台）
-http://141.95.85.201:6666/livehttpplay?channel_id=12038
+
 #EXTINF:-1 tvg-id="三立新闻" tvg-name="三立新闻" tvg-logo="https://live.fanmingming.com/tv/SETNews.png" group-title="大陆外（部分网络无法使用）",三立新闻（台）
-http://141.95.85.201:6666/livehttpplay?channel_id=10126
+
 #EXTINF:-1 tvg-id="TVbS" tvg-name="TVBS台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBS.png" group-title="大陆外（部分网络无法使用）",TVBS台（台）
-http://141.95.85.201:6666/livehttpplay?channel_id=20085
+
 #EXTINF:-1 tvg-id="TVBS精采台" tvg-name="TVBS精采台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBS精采.png" group-title="大陆外（部分网络无法使用）",TVBS精采台（台）
-http://141.95.85.201:6666/livehttpplay?channel_id=20136
+
 #EXTINF:-1 tvg-id="TVBS欢乐台" tvg-name="TVBS欢乐台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBS欢乐.png" group-title="大陆外（部分网络无法使用）",TVBS欢乐台（台）
-http://141.95.85.201:6666/livehttpplay?channel_id=20105
+
 #EXTINF:-1 tvg-id="TVBS新闻台" tvg-name="TVBS新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBS新闻.png" group-title="大陆外（部分网络无法使用）",TVBS新闻台（台）
-http://141.95.85.201:6666/livehttpplay?channel_id=20165
+
 #EXTINF:-1 tvg-id="华视" tvg-name="华视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CTS.png" group-title="大陆外（部分网络无法使用）",华视HD（台）
-http://141.95.85.201:6666/livehttpplay?channel_id=20086
+
 #EXTINF:-1 tvg-id="华视" tvg-name="华视（备用）" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CTS.png" group-title="大陆外（部分网络无法使用）",华视HD😀备用（台）
 
 #EXTINF:-1 tvg-id="公视" tvg-name="公视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/PublicTV.png" group-title="大陆外（部分网络无法使用）",公视HD（台）
-http://141.95.85.201:6666/livehttpplay?channel_id=20087
+
 #EXTINF:-1 tvg-id="中视" tvg-name="中视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/中视.png" group-title="大陆外（部分网络无法使用）",中视HD（台）
 
 #EXTINF:-1 tvg-id="民视" tvg-name="民视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/民视.png" group-title="大陆外（部分网络无法使用）",民视HD（台）
@@ -539,19 +539,19 @@ http://141.95.85.201:6666/livehttpplay?channel_id=20087
 #EXTINF:-1 tvg-id="台视" tvg-name="台视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/台视.png" group-title="大陆外（部分网络无法使用）",台视HD（台）
 
 #EXTINF:-1 tvg-id="日本全天新闻" tvg-name="日本全天新闻" tvg-logo="https://parco-zh.github.io/demo/riben24.png" group-title="大陆外（部分网络无法使用）",日本全天新闻（日）
-https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
+
 #EXTINF:-1 tvg-id="中天娱乐" tvg-name="中天娱乐台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CtiEntertainment.png" group-title="大陆外（部分网络无法使用）",中天娱乐（台）
 
 #EXTINF:-1 tvg-id="寰宇新闻" tvg-name="寰宇新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/GlobalNews.png" group-title="大陆外（部分网络无法使用）",寰宇新闻（台）
-http://141.95.85.201:6666/livehttpplay?channel_id=20109
+
 #EXTINF:-1 tvg-id="壹新闻台" tvg-name="壹新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/NextTVNews.png" group-title="大陆外（部分网络无法使用）",壹新闻HD（台）
-http://141.95.85.201:6666/livehttpplay?channel_id=20028
+
 #EXTINF:-1 tvg-id="ELTA综合" tvg-name="ELTA综合" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/mengxianshengaaa/live/main/eltazonghe.png" group-title="大陆外（部分网络无法使用）",ELTA综合（台）
-http://141.95.85.201:6666/livehttpplay?channel_id=16076
+
 #EXTINF:-1 tvg-id="momo亲子台" tvg-name="momo亲子台" tvg-logo="https://live.fanmingming.com/tv/MOMOkids.png" group-title="大陆外（部分网络无法使用）",momo亲子台（台）
-http://141.95.85.201:6666/livehttpplay?channel_id=16085
+
 #EXTINF:-1 tvg-id="美国中文电视" tvg-name="美国中文电视" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/mengxianshengaaa/live/main/meiguozhongwen.png" group-title="大陆外（部分网络无法使用）",美国中文电视（美）
-http://141.95.85.201:6666/livehttpplay?channel_id=10128
+
 #EXTINF:-1 tvg-id="HBO" tvg-name="HBO" tvg-logo="https://live.fanmingming.com/tv/HBO.png" group-title="大陆外（部分网络无法使用）",HBO（美）
 
 #EXTINF:-1 tvg-id="HBOfamily" tvg-name="HBOfamily" tvg-logo="https://live.fanmingming.com/tv/HBOFamily.png" group-title="大陆外（部分网络无法使用）",HBO family（美）
