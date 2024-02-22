@@ -432,12 +432,6 @@ http://[2409:8087:2001:20:2800:0:df6e:eb22]:80/ott.mobaibox.com/PLTV/3/224/32212
 http://[2409:8087:2001:20:2800:0:df6e:eb19]:80/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8
 #EXTINF:-1 tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视香港台.png" group-title="大陆外（部分网络无法使用）",凤凰香港（港）
 http://[2409:8087:2001:20:2800:0:df6e:eb23]:80/ott.mobaibox.com/PLTV/1/224/3221228530/1.m3u8
-#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://live.fanmingming.com/tv/翡翠台.png" group-title="大陆外（部分网络无法使用）",翡翠台（港）
-http://141.95.85.201:6666/livehttpplay?channel_id=20124
-#EXTINF:-1 tvg-id="TVB星河" tvg-name="TVB星河" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/mengxianshengaaa/live/main/tvbxinghe.png" group-title="大陆外（部分网络无法使用）",TVB星河（港）
-
-#EXTINF:-1 tvg-id="J2" tvg-name="J2" tvg-logo="https://live.fanmingming.com/tv/J2.png" group-title="大陆外（部分网络无法使用）",j2（港）
-http://141.95.85.201:6666/livehttpplay?channel_id=30030
 #EXTINF:-1 tvg-id="CATCHPLAY电影" tvg-name="CATCHPLAY电影台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/catchplay.png" group-title="大陆外（部分网络无法使用）",CATCHPLAY电影（台）
 http://141.95.85.201:6666/livehttpplay?channel_id=10127
 #EXTINF:-1 tvg-id="数位电影" tvg-name="数位电影台" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/mengxianshengaaa/live/main/shuweidianying.png" group-title="大陆外（部分网络无法使用）",数位电影（台）
@@ -471,6 +465,8 @@ http://141.95.85.201:6666/livehttpplay?channel_id=20062
 #EXTINF:-1 tvg-id="东森综合" tvg-name="东森综合台（备用）" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCVariety.png" group-title="大陆外（部分网络无法使用）",东森综合😀备用（台）
 
 #EXTINF:-1 tvg-id="东森戏剧" tvg-name="东森戏剧台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCDrama.png" group-title="大陆外（部分网络无法使用）",东森戏剧（台）
+
+#EXTINF:-1 tvg-id="东森超视" tvg-name="东森超视台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCSuper.png" group-title="大陆外（部分网络无法使用）",东森超视（台）
 
 #EXTINF:-1 tvg-id="东森戏剧" tvg-name="东森戏剧台（备用）" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCDrama.png" group-title="大陆外（部分网络无法使用）",东森戏剧😀备用（台）
 
@@ -567,7 +563,29 @@ http://141.95.85.201:6666/livehttpplay?channel_id=20062
 #EXTINF:-1 tvg-id="尼克兒童頻道" tvg-name="尼克兒童頻道" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/mengxianshengaaa/live/main/nikeertong.png" group-title="大陆外（部分网络无法使用）",尼克兒童頻道（美）
 
 #EXTINF:-1 tvg-id="BBC新闻台" tvg-name="BBC新闻台" tvg-logo="https://live.fanmingming.com/tv/BBCWORLDNEWSASIA.png" group-title="大陆外（部分网络无法使用）",BBC新闻台（英）
-http://livetv.ktv.zone/60/play.m3u8
+
 #EXTINF:-1 tvg-id="BBCEarth" tvg-name="BBCEarth" tvg-logo="https://live.fanmingming.com/tv/BBCEarth.png" group-title="大陆外（部分网络无法使用）",BBCEarth（英）
 
+#EXTINF:-1 tvg-id="BBCFirst" tvg-name="BBCFirst" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/mengxianshengaaa/live/main/bbcdiyi.png" group-title="大陆外（部分网络无法使用）",BBCFirst（英）
+
+#EXTINF:-1 tvg-id="WBtv华纳" tvg-name="WBtv华纳" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/mengxianshengaaa/live/main/huanatv.png" group-title="大陆外（部分网络无法使用）",WBtv华纳（台）
+
+#EXTINF:-1 tvg-id="ELTA综合" tvg-name="ELTA综合" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/mengxianshengaaa/live/main/eltazonghe.png" group-title="大陆外（部分网络无法使用）",ELTA综合（台）
+
 #EXTINF:-1 tvg-id="ELTA影剧" tvg-name="ELTA影剧" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/mengxianshengaaa/live/main/eltayingju.png" group-title="大陆外（部分网络无法使用）",ELTA影剧（台）
+
+#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台&多音轨" tvg-logo="https://live.fanmingming.com/tv/翡翠台.png" group-title="大陆外（部分网络无法使用）",翡翠台&多音轨（港）
+
+#EXTINF:-1 tvg-id="TVB无线新闻台" tvg-name="无线新闻&多音轨" tvg-logo="https://live.fanmingming.com/tv/无线新闻台.png" group-title="大陆外（部分网络无法使用）",无线新闻&多音轨（港）
+
+#EXTINF:-1 tvg-id="TVB明珠台" tvg-name="明珠台&多音轨" tvg-logo="https://live.fanmingming.com/tv/TVB明珠台.png" group-title="大陆外（部分网络无法使用）",明珠台&多音轨（港）
+
+#EXTINF:-1 tvg-id="J2" tvg-name="J2&多音轨" tvg-logo="https://live.fanmingming.com/tv/J2.png" group-title="大陆外（部分网络无法使用）",J2&&多音轨（港）
+
+#EXTINF:-1 tvg-id="RTHK32" tvg-name="RTHK32&多音轨" tvg-logo="https://iptv-pro.github.io/logo/RTHK32.png" group-title="大陆外（部分网络无法使用）",RTHK32&多音轨（港）
+
+#EXTINF:-1 tvg-id="HOY77" tvg-name="HOY77&多音轨" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/mengxianshengaaa/live/main/hoy77.png" group-title="大陆外（部分网络无法使用）",HOY77&多音轨（港）
+
+#EXTINF:-1 tvg-id="ViuTv" tvg-name="ViuTv&多音轨" tvg-logo="https://live.fanmingming.com/tv/viutv.png" group-title="大陆外（部分网络无法使用）",ViuTv&多音轨（港）
+
+#EXTINF:-1 tvg-id="ViuTv 6台" tvg-name="ViuTv6&多音轨" tvg-logo="https://live.fanmingming.com/tv/viutv.png" group-title="大陆外（部分网络无法使用）",ViuTv6&多音轨（港）
