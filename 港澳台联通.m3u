@@ -1,0 +1,72 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="HBOfamily" tvg-name="HBOfamily" tvg-logo="https://live.fanmingming.com/tv/HBOFamily.png" group-title="大陆外（部分网络无法使用）",HBO family（美）
+http://50.7.238.114:8278/fyi_twn/playlist.m3u8?tid=m99b80124e3b4&ct=18337&tsum=73f6f540497de9a5615b9bd55bec8853
+#EXTINF:-1 tvg-id="HBO Signature" tvg-name="HBO Signature" tvg-logo="https://live.fanmingming.com/tv/HBOSignature.png" group-title="大陆外（部分网络无法使用）",HBO Signature（美）
+http://50.7.238.114:8278/hbosignature_twn/playlist.m3u8?tid=MD6D5767423357674233&ct=18392&tsum=995709f1100cf1b07964790160bfb4ee
+#EXTINF:-1 logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/mengxianshengaaa/live/main/longhuaxiju.png" group-title="大陆外（部分网络无法使用）" ,龙华戏剧（台）
+http://50.7.238.114:8278/lunghuaxiju_twn/playlist.m3u8?tid=MBAB4709384347093843&ct=19226&tsum=a2a7258f8565588e10b8da2f26ba8039
+#EXTINF:-1 logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/mengxianshengaaa/live/main/longhuaxiju.png" group-title="大陆外（部分网络无法使用）" ,龙华洋片（台）
+http://50.7.238.114:8278/lunghuawestern_twn/playlist.m3u8?tid=m8fe1f2649ecd12830420&ct=17874&tsum=a6674ed93a8ec4ea4705c721b752d4db
+#EXTINF:-1 logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/mengxianshengaaa/live/main/longhuaxiju.png" group-title="大陆外（部分网络无法使用）" ,龙华偶像（台）
+http://50.7.238.114:8278/lunghuaidol_twn/playlist.m3u8?tid=MD6D6087277960872779&ct=19249&tsum=83e30fd8200429793355d21bf37719ff
+#EXTINF:-1 logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/mengxianshengaaa/live/main/longhuaxiju.png" group-title="大陆外（部分网络无法使用）" ,美亚电影（台）
+http://50.7.238.114:8278/meiyamovie_twn/playlist.m3u8?tid=MFEF1001328410013284&ct=19226&tsum=9839709ca0f37641c5d1ba962c3bc739
+#EXTINF:-1 logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/mengxianshengaaa/live/main/longhuaxiju.png" group-title="大陆外（部分网络无法使用）" ,好莱坞电影（台）
+http://50.7.238.114:8278/hollywoodmovies_twn/playlist.m3u8?tid=MA8A4005638840056388&ct=18392&tsum=a1f1517d4ea64fd01267905f21d83859
+#EXTINF:-1 logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/mengxianshengaaa/live/main/longhuaxiju.png" group-title="大陆外（部分网络无法使用）" ,CN卡通频道（台）
+http://50.7.238.114:8278/momo1_twn/playlist.m3u8?tid=MA0A4898983648989836&ct=19225&tsum=bd109117d126916f203880b1f2063d5e
+#EXTINF:-1 logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/mengxianshengaaa/live/main/longhuaxiju.png" group-title="大陆外（部分网络无法使用）" ,动物星球（台）
+http://50.7.238.114:8278/animalplanet_twn/playlist.m3u8?tid=MABA3681856636818566&ct=18393&tsum=2066d4c793195f8449577d35af941288
+#EXTINF:-1 logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/mengxianshengaaa/live/main/longhuaxiju.png" group-title="大陆外（部分网络无法使用）" ,BBCEarth（台）
+http://50.7.238.114:8278/bbcearth_twn/playlist.m3u8?tid=MD4D1422738714227387&ct=19254&tsum=2637e4976a40770c852fc6f4f9d2308f
+#EXTINF:-1 logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/mengxianshengaaa/live/main/longhuaxiju.png" group-title="大陆外（部分网络无法使用）" ,HBO family（美）
+http://198.16.100.90:8278/fyi_twn/playlist.m3u8?tid=m99b80124e3b4&ct=18337&tsum=73f6f540497de9a5615b9bd55bec8853
+#EXTINF:-1 logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/mengxianshengaaa/live/main/longhuaxiju.png" group-title="大陆外（部分网络无法使用）" ,公视HD（台）
+http://198.16.100.90:8278/ctv_taiwan/playlist.m3u8?tid=MDCD6096520560965205&ct=19249&tsum=64237c7ffa0c00b62657a938247bcab0
+#EXTINF:-1 logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/mengxianshengaaa/live/main/longhuaxiju.png" group-title="大陆外（部分网络无法使用）" ,八大综合（台）
+http://198.16.100.90:8278/badazhonghe/playlist.m3u8?tid=mfb8d64b6276514171054&ct=17874&tsum=a87466c997089ea7dce98cd17301667d
+#EXTINF:-1 logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/mengxianshengaaa/live/main/longhuaxiju.png" group-title="大陆外（部分网络无法使用）" ,纬来电影（台）
+http://198.16.100.90:8278/videolandmovie/playlist.m3u8?tid=MBCB4045365240453652&ct=19613&tsum=1305867fd94535b1205c82cd88334522
+#EXTINF:-1 logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/mengxianshengaaa/live/main/longhuaxiju.png" group-title="大陆外（部分网络无法使用）" ,龙华戏剧（台）
+http://198.16.100.90:8278/lunghuaxiju_twn/playlist.m3u8?tid=MBAB4709384347093843&ct=19226&tsum=a2a7258f8565588e10b8da2f26ba8039
+#EXTINF:-1 logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/mengxianshengaaa/live/main/longhuaxiju.png" group-title="大陆外（部分网络无法使用）" ,龙华洋片（台）
+http://198.16.100.90:8278/lunghuawestern_twn/playlist.m3u8?tid=m8fe1f2649ecd12830420&ct=17874&tsum=a6674ed93a8ec4ea4705c721b752d4db
+#EXTINF:-1 logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/mengxianshengaaa/live/main/longhuaxiju.png" group-title="大陆外（部分网络无法使用）" ,龙华偶像（台）
+http://198.16.100.90:8278/lunghuaidol_twn/playlist.m3u8?tid=MD6D6087277960872779&ct=19249&tsum=83e30fd8200429793355d21bf37719ff
+#EXTINF:-1 logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/mengxianshengaaa/live/main/longhuaxiju.png" group-title="大陆外（部分网络无法使用）" ,好莱坞电影（台）
+http://198.16.100.90:8278/hollywoodmovies_twn/playlist.m3u8?tid=MA8A4005638840056388&ct=18392&tsum=a1f1517d4ea64fd01267905f21d83859
+#EXTINF:-1 logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/mengxianshengaaa/live/main/longhuaxiju.png" group-title="大陆外（部分网络无法使用）" ,CN卡通频道（台）
+http://198.16.100.90:8278/momo1_twn/playlist.m3u8?tid=MA0A4898983648989836&ct=19225&tsum=bd109117d126916f203880b1f2063d5e
+#EXTINF:-1 logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/mengxianshengaaa/live/main/longhuaxiju.png" group-title="大陆外（部分网络无法使用）" ,BBCEarth（台）
+http://198.16.100.90:8278/bbcearth_twn/playlist.m3u8?tid=MD4D1422738714227387&ct=19254&tsum=2637e4976a40770c852fc6f4f9d2308f
+
+#EXTINF:-1 logo="" group-title="" ,美亚电影（台）
+http://50.7.238.114:8278/meiyamovie_twn/playlist.m3u8?tid=MFEF1001328410013284&ct=19226&tsum=9839709ca0f37641c5d1ba962c3bc739
+#EXTINF:-1 logo="" group-title="" ,HBO Signature（美）
+http://50.7.238.114:8278/hbosignature_twn/playlist.m3u8?tid=MD6D5767423357674233&ct=18392&tsum=995709f1100cf1b07964790160bfb4ee
+#EXTINF:-1 logo="" group-title="" ,东森电影（台）
+http://198.16.100.90:8278/ettvmovie/playlist.m3u8?tid=md2ba4c243ed411481253&ct=17874&tsum=4637ffbc3260e78931b566300e618313
+#EXTINF:-1 logo="" group-title="" ,八大戏剧（台）
+http://50.7.238.114:8278/badadrama/playlist.m3u8?tid=m4970c4e1b988&ct=18335&tsum=20cb1d15d4e116ab9e44edb542cf51a5
+#EXTINF:-1 logo="" group-title="" ,八大第一（台）
+http://50.7.238.114:8278/badafirst/playlist.m3u8?tid=mb8efded78b4e12042621&ct=17874&tsum=028ad819cd9a0f949a043d652fa3e164
+#EXTINF:-1 logo="" group-title="" ,ELTA综合（台）
+http://50.7.238.114:8278/eltazonghe/playlist.m3u8?tid=MF0F9791060497910604&ct=19669&tsum=41d83c13104f8f7430f8121d79c7c5d6
+#EXTINF:-1 logo="" group-title="" ,ELTA影剧（台）
+http://50.7.238.114:8278/eltadrama_twn/playlist.m3u8?tid=mea60e416943110603068&ct=17874&tsum=ede38d2a218a34b5397af9d19e0c39a3
+#EXTINF:-1 logo="" group-title="" ,动物星球（台）
+http://50.7.238.114:8278/animalplanet_twn/playlist.m3u8?tid=MABA3681856636818566&ct=18393&tsum=2066d4c793195f8449577d35af941288
+#EXTINF:-1 logo="" group-title="" ,东森洋片
+http://198.16.100.90:8278/ettvwestern/playlist.m3u8?tid=MC2C7134276471342764&ct=19225&tsum=4889d0c08d077336bd5066b912891aee
+#EXTINF:-1 logo="" group-title="" ,纬来日本
+http://50.7.238.114:8278/videolandjapan/playlist.m3u8?tid=MBAB7250273772502737&ct=19344&tsum=2b580b485643235654de4a1bbc9639cb
+#EXTINF:-1 logo="" group-title="" ,靖天卡通
+http://198.16.100.90:8278/jingtiancartoon_twn/playlist.m3u8?tid=m1465dab025b5&ct=18335&tsum=ba935e583d90bfbe1d1d9662e9ac600c
+#EXTINF:-1 logo="" group-title="" ,靖天国际
+http://198.16.100.90:8278/jingtianintl_twn/playlist.m3u8?tid=ME4E7632479576324795&ct=19226&tsum=9922eeed6392b21e1710ba791cc599d6
+#EXTINF:-1 logo="" group-title="" ,东森财经
+http://50.7.238.114:8278/ettvcaijing_twn/playlist.m3u8?tid=MD5D9010164090101640&ct=19225&tsum=cc229773020f89af853b23d81e0e6371
+#EXTINF:-1 logo="" group-title="" ,TVBS
+http://50.7.238.114:8278/tvbs/playlist.m3u8?tid=MDED5111960351119603&ct=19226&tsum=49931e2d3885c468d56ffae2c2db9e6e
+#EXTINF:-1 logo="" group-title="" ,TVBS欢乐台
+http://198.16.100.90:8278/tvbshuanle_twn/playlist.m3u8?tid=MA9A4111409641114096&ct=19225&tsum=600f3056bba6413dec3155efd19e2d20
