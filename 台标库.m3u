@@ -704,24 +704,24 @@
 #EXTINF:-1 tvg-id="美亚电影" tvg-name="美亚电影台（联通正常）" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/meiyamovie.png" group-title="大陆外（部分网络无法使用）",美亚电影（联通正常）
 
 #EXTINF:-1 tvg-id="好莱坞电影" tvg-name="好莱坞电影台（联通正常）" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HMC.png" group-title="大陆外（部分网络无法使用）",好莱坞电影（联通正常）
-http://198.16.100.90:8278/hollywoodmovies_twn/playlist.m3u8?tid=MA8A4005638840056388&ct=18392&tsum=a1f1517d4ea64fd01267905f21d83859
+
 #EXTINF:-1 tvg-id="CN卡通频道" tvg-name="CN卡通频道（联通正常）" tvg-logo="https://live.fanmingming.com/tv/CNCartoon.png" group-title="大陆外（部分网络无法使用）",CN卡通频道（联通正常）
-http://198.16.100.90:8278/momo1_twn/playlist.m3u8?tid=MA0A4898983648989836&ct=19225&tsum=bd109117d126916f203880b1f2063d5e
+
 #EXTINF:-1 tvg-id="BBCEarth" tvg-name="BBCEarth（联通正常）" tvg-logo="https://live.fanmingming.com/tv/BBCEarth.png" group-title="大陆外（部分网络无法使用）",BBCEarth（联通正常）
-http://198.16.100.90:8278/bbcearth_twn/playlist.m3u8?tid=MD4D1422738714227387&ct=19254&tsum=2637e4976a40770c852fc6f4f9d2308f
+
 #EXTINF:-1 tvg-id="八大综合" tvg-name="八大综合台（联通正常）" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/GTVVarietyHD.png" group-title="大陆外（部分网络无法使用）",八大综合（联通正常）
-http://198.16.100.90:8278/badazhonghe/playlist.m3u8?tid=MCFC9951205299512052&ct=19249&tsum=dc4ca0de5e57c9f4caee0bb4e80c098a
+
 #EXTINF:-1 tvg-id="八大戏剧" tvg-name="八大戏剧（联通正常）" tvg-logo="https://live.fanmingming.com/tv/GTVDramaHD.png" group-title="大陆外（部分网络无法使用）",八大戏剧（联通正常）
-http://50.7.238.114:8278/badadrama/playlist.m3u8?tid=m4970c4e1b988&ct=18335&tsum=20cb1d15d4e116ab9e44edb542cf51a5
+
 #EXTINF:-1 tvg-id="八大第一" tvg-name="八大第一台（联通正常）" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/GTVOneHD.png" group-title="大陆外（部分网络无法使用）",八大第一（联通正常）
-http://50.7.238.114:8278/badafirst/playlist.m3u8?tid=mb8efded78b4e12042621&ct=17874&tsum=028ad819cd9a0f949a043d652fa3e164
+
 #EXTINF:-1 tvg-id="ELTA综合" tvg-name="ELTA综合（联通正常）" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/mengxianshengaaa/live/main/eltazonghe.png" group-title="大陆外（部分网络无法使用）",ELTA综合（联通正常）
-http://50.7.238.114:8278/eltazonghe/playlist.m3u8?tid=MF0F9791060497910604&ct=19669&tsum=41d83c13104f8f7430f8121d79c7c5d6
+
 #EXTINF:-1 tvg-id="ELTA影剧" tvg-name="ELTA影剧（联通正常）" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/mengxianshengaaa/live/main/eltayingju.png" group-title="大陆外（部分网络无法使用）",ELTA影剧（联通正常）
-http://50.7.238.114:8278/eltadrama_twn/playlist.m3u8?tid=mea60e416943110603068&ct=17874&tsum=ede38d2a218a34b5397af9d19e0c39a3
+
 #EXTINF:-1 tvg-id="动物星球" tvg-name="动物星球（联通正常）" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/AnimalPlanet.png" group-title="大陆外（部分网络无法使用）",动物星球（联通正常）
-http://50.7.238.114:8278/animalplanet_twn/playlist.m3u8?tid=MABA3681856636818566&ct=18393&tsum=2066d4c793195f8449577d35af941288
+
 #EXTINF:-1 tvg-id="东森电影" tvg-name="东森电影（联通正常）" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCMovies.png" group-title="大陆外（部分网络无法使用）",东森电影（联通正常）
-http://198.16.100.90:8278/ettvmovie/playlist.m3u8?tid=md2ba4c243ed411481253&ct=17874&tsum=4637ffbc3260e78931b566300e618313
+
 #EXTINF:-1 tvg-id="东森洋片" tvg-name="东森洋片（联通正常）" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCWesternMovies.png" group-title="大陆外（部分网络无法使用）",东森洋片（联通正常）
-http://198.16.100.90:8278/ettvwestern/playlist.m3u8?tid=MC2C7134276471342764&ct=19225&tsum=4889d0c08d077336bd5066b912891aee
+
