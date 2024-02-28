@@ -73,80 +73,14 @@ http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226202/1.m3u8
 http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226010/1.m3u8
 #EXTINF:-1 tvg-id="河南卫视" tvg-name="河南卫视4K（回看）" tvg-logo="https://live.fanmingming.com/tv/河南卫视.png" group-title="支持回看",河南卫视 4K（回看）
 http://39.134.216.68/[2409:8087:4402:20:1:1216:401:13]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226526/index.m3u8
-#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1综合（5.1环绕声）" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="央视频道",CCTV-1 综合（5.1环绕声）
-http://www.liam008.top:4022/udp/225.1.1.120:5002
-#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1综合（高码率）" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="央视频道",CCTV-1 综合（高码率）
-http://[2409:8087:2001:20:2800:0:df6e:eb07]/ott.mobaibox.com/PLTV/3/224/3221227467/index.m3u8?icpid=3&RTS=1668593752&from=40&ocs=2_2409:8087:2001:20:2800:0:df6e:eb0a_80&popid=40&hms_devid=2036&prioritypopid=40&vqe=3
-#EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2财经（5.1环绕声）" tvg-logo="https://live.fanmingming.com/tv/CCTV2.png" group-title="央视频道",CCTV-2 财经（5.1环绕声）
-http://www.liam008.top:4022/udp/225.1.1.133:5002
-#EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2财经（高码率）" tvg-logo="https://live.fanmingming.com/tv/CCTV2.png" group-title="央视频道",CCTV-2 财经（高码率）
-http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001332/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-#EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3综艺（5.1环绕声）" tvg-logo="https://live.fanmingming.com/tv/CCTV3.png" group-title="央视频道",CCTV-3 综艺（5.1环绕声）
-http://www.liam008.top:4022/udp/225.1.1.158:5002
-#EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3综艺4K" tvg-logo="https://live.fanmingming.com/tv/CCTV3.png" group-title="央视频道",CCTV-3 综艺 4K
-http://[2409:8087:2001:20:2800:0:df6e:eb20]/ott.mobaibox.com/PLTV/4/224/3221228499/index.m3u8
 #EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4中文国际（5.1环绕声）" tvg-logo="https://live.fanmingming.com/tv/CCTV4.png" group-title="央视频道",CCTV-4 中文国际（5.1环绕声）
-http://www.liam008.top:4022/udp/225.1.1.150:5002
+
 #EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4中文国际（高码率）" tvg-logo="https://live.fanmingming.com/tv/CCTV4.png" group-title="央视频道",CCTV-4 中文国际（高码率）
-http://[2409:8087:2001:20:2800:0:df6e:eb12]/ott.mobaibox.com/PLTV/3/224/3221227549/index.m3u8?icpid=3&RTS=1668594272&from=40&popid=40&hms_devid=2112&prioritypopid=40&vqe=3
+
 #EXTINF:-1 tvg-id="CCTV4美洲" tvg-name="CCTV4美洲" tvg-logo="https://live.fanmingming.com/tv/CCTV4美洲.png" group-title="央视频道",CCTV-4 中文国际 美洲
-http://dns.art2kn.win:7000/udp/239.3.1.214:4220&北京ip
+
 #EXTINF:-1 tvg-id="CCTV4欧洲" tvg-name="CCTV4欧洲" tvg-logo="https://live.fanmingming.com/tv/CCTV4欧洲.png" group-title="央视频道",CCTV-4 中文国际 欧洲
-http://adsl03.ccj.gohome.link:55556/rtp/239.3.1.213:4220&北京ip
-#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5体育4K" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png" group-title="央视频道",CCTV-5 体育4K
-http://[2409:8087:2001:20:2800:0:df6e:eb22]/ott.mobaibox.com/PLTV/4/224/3221228502/index.m3u8
-#EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+体育赛事" tvg-logo="https://live.fanmingming.com/tv/CCTV5+.png" group-title="央视频道",CCTV-5+ 体育赛事
-http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001334/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-#EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV6电影（5.1环绕声）" tvg-logo="https://live.fanmingming.com/tv/CCTV6.png" group-title="央视频道",CCTV-6 电影（5.1环绕声）
-http://www.liam008.top:4022/udp/225.1.1.195:5002
-#EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV6电影（高码率）" tvg-logo="https://live.fanmingming.com/tv/CCTV6.png" group-title="央视频道",CCTV-6 电影（高码率）
-http://[2409:8087:2001:20:2800:0:df6e:eb22]/ott.mobaibox.com/PLTV/4/224/3221228516/index.m3u8
-#EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV7国防军事（5.1环绕声）" tvg-logo="https://live.fanmingming.com/tv/CCTV7.png" group-title="央视频道",CCTV-7 国防军事（5.1环绕声）
-http://www.liam008.top:4022/udp/225.1.1.138:5002
-#EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV7国防军事（高码率）" tvg-logo="https://live.fanmingming.com/tv/CCTV7.png" group-title="央视频道",CCTV-7 国防军事（高码率）
-http://[2409:8087:2001:20:2800:0:df6e:eb11]:80/wh7f454c46tw1534804996_666837910/ott.mobaibox.com/PLTV/3/224/3221227642/index.m3u8?
-#EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV8电视剧（5.1环绕声）" tvg-logo="https://live.fanmingming.com/tv/CCTV8.png" group-title="央视频道",CCTV-8 电视剧（5.1环绕声）
-http://www.liam008.top:4022/udp/225.1.1.196:5002
-#EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV8电视剧（高码率）" tvg-logo="https://live.fanmingming.com/tv/CCTV8.png" group-title="央视频道",CCTV-8 电视剧（高码率）
-http://[2409:8087:2001:20:2800:0:df6e:eb12]/ott.mobaibox.com/PLTV/3/224/3221227473/index.m3u8?icpid=3&RTS=1668594586&from=40&popid=40&hms_devid=2112&prioritypopid=40&vqe=33
-#EXTINF:-1 tvg-id="CCTV9" tvg-name="CCTV9记录（5.1环绕声）" tvg-logo="https://live.fanmingming.com/tv/CCTV9.png" group-title="央视频道",CCTV-9 纪录（5.1环绕声）
-http://www.liam008.top:4022/udp/225.1.1.119:5002
-#EXTINF:-1 tvg-id="CCTV9" tvg-name="CCTV9记录（高码率）" tvg-logo="https://live.fanmingming.com/tv/CCTV9.png" group-title="央视频道",CCTV-9 纪录（高码率）
-http://www.weec.top:2222/rtp/239.3.1.62:8112
-#EXTINF:-1 tvg-id="CCTV10" tvg-name="CCTV10科教（5.1环绕声）" tvg-logo="https://live.fanmingming.com/tv/CCTV10.png" group-title="央视频道",CCTV-10 科教（5.1环绕声）
-http://www.liam008.top:4022/udp/225.1.1.140:5002
-#EXTINF:-1 tvg-id="CCTV10" tvg-name="CCTV10科教（高码率）" tvg-logo="https://live.fanmingming.com/tv/CCTV10.png" group-title="央视频道",CCTV-10 科教（高码率）
-http://dns.art2kn.win:7000/rtp/239.3.1.63:8116
-#EXTINF:-1 tvg-id="CCTV11" tvg-name="CCTV11戏曲" tvg-logo="https://live.fanmingming.com/tv/CCTV11.png" group-title="央视频道",CCTV-11 戏曲
-http://qingcheng.pro:7890/udp/238.125.4.83:5140
-#EXTINF:-1 tvg-id="CCTV12" tvg-name="CCTV12社会与法（5.1环绕声）" tvg-logo="https://live.fanmingming.com/tv/CCTV12.png" group-title="央视频道",CCTV-12 社会与法（5.1环绕声）
-http://www.liam008.top:4022/udp/225.1.1.142:5002
-#EXTINF:-1 tvg-id="CCTV12" tvg-name="CCTV12社会与法（高码率）" tvg-logo="https://live.fanmingming.com/tv/CCTV12.png" group-title="央视频道",CCTV-12 社会与法（高码率）
-http://dns.art2kn.win:7000/rtp/239.3.1.64:8124
-#EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13新闻（5.1环绕声）" tvg-logo="https://live.fanmingming.com/tv/CCTV13.png" group-title="央视频道",CCTV-13 新闻（5.1环绕声）
-http://www.liam008.top:4022/udp/225.1.2.193:5002
-#EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13新闻（高码率）" tvg-logo="https://live.fanmingming.com/tv/CCTV13.png" group-title="央视频道",CCTV-13 新闻（高码率）
-http://[2409:8087:2001:20:2800:0:df6e:eb15]:80/wh7f454c46tw98873079_-1249323947/ott.mobaibox.com/PLTV/3/224/3221227387/index.m3u8?
-#EXTINF:-1 tvg-id="CCTV14" tvg-name="CCTV14少儿（5.1环绕声）" tvg-logo="https://live.fanmingming.com/tv/CCTV14.png" group-title="央视频道",CCTV-14 少儿（5.1环绕声）
-http://www.liam008.top:4022/udp/225.1.1.144:5002
-#EXTINF:-1 tvg-id="CCTV14" tvg-name="CCTV14少儿（高码率）" tvg-logo="https://live.fanmingming.com/tv/CCTV14.png" group-title="央视频道",CCTV-14 少儿（高码率）
-http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001292/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-#EXTINF:-1 tvg-id="CCTV15" tvg-name="CCTV15音乐" tvg-logo="https://live.fanmingming.com/tv/CCTV15.png" group-title="央视频道",CCTV-15 音乐
-http://www.weec.top:2222/rtp/239.3.1.153:8136
-#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16奥林匹克（5.1环绕声）" tvg-logo="https://live.fanmingming.com/tv/CCTV16.png" group-title="央视频道",CCTV-16 奥林匹克（5.1环绕声）
-http://www.liam008.top:4022/udp/225.1.2.237:5002
-#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16奥林匹克（高码率）" tvg-logo="https://live.fanmingming.com/tv/CCTV16.png" group-title="央视频道",CCTV-16 奥林匹克（高码率）
-http://[2409:8087:2001:20:2800:0:df6e:eb15]:80/wh7f454c46tw2571298525_-1215675140/ott.mobaibox.com/PLTV/3/224/3221228112/index.m3u8?
-#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16奥林匹克4K（5.1环绕声）" tvg-logo="https://live.fanmingming.com/tv/CCTV16.png" group-title="央视频道",CCTV-16 奥林匹克4K（5.1环绕声）
-http://cssgxc.gnway.vip:8460/rtp/239.77.1.98:5146
-#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16奥林匹克4K（50帧）" tvg-logo="https://live.fanmingming.com/tv/CCTV16.png" group-title="央视频道",CCTV-16 奥林匹克4K（50帧）
-http://ipv6.kjrzxhb.top:8888/rtp/239.10.0.187:5140
-#EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17农业农村（5.1环绕声）" tvg-logo="https://live.fanmingming.com/tv/CCTV17.png" group-title="央视频道",CCTV-17 农业农村（5.1环绕声）
-http://www.liam008.top:4022/udp/225.1.2.052:5002
-#EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17农业农村（高码率）" tvg-logo="https://live.fanmingming.com/tv/CCTV17.png" group-title="央视频道",CCTV-17 农业农村（高码率）
-http://suenley.cn:4022/rtp/238.0.1.200:5001
-#EXTINF:-1 tvg-id="CCTV4K" tvg-name="CCTV4K超高清" tvg-logo="https://live.fanmingming.com/tv/CCTV4K.png" group-title="央视频道",CCTV-4K 超高清（12M码率）
-http://[2409:8087:2001:20:2800:0:df6e:eb13]/ott.mobaibox.com/PLTV/3/224/3221228228/index.m3u8
+
 #EXTINF:-1 tvg-id="CCTV4K" tvg-name="CCTV4K超高清32M码率" tvg-logo="https://live.fanmingming.com/tv/CCTV4K.png" group-title="央视频道",CCTV-4K 超高清（32M码率）
 http://cssgxc.gnway.vip:8460/udp/239.77.0.174:5146
 #EXTINF:-1 tvg-id="CCTV8K" tvg-name="CCTV8K超高清" tvg-logo="https://live.fanmingming.com/tv/CCTV8K.png" group-title="央视频道",CCTV-8K 超高清
@@ -566,193 +500,193 @@ http://47.236.28.28:35455/huya/11342413
 #EXTINF:-1 tvg-id="轮播" tvg-name="轮播·海绵宝宝" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/mengxianshengaaa/live/main/lunbo.png" group-title="电影影视" ,「轮播」海绵宝宝
 http://47.236.28.28:35455/huya/11352919
 #EXTINF:-1 tvg-id="轮播" tvg-name="轮播·迪迦奥特曼" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/mengxianshengaaa/live/main/lunbo.png" group-title="电影影视" ,「轮播」迪迦奥特曼
-http://47.236.28.28:35455/huya/11602074
+
 #EXTINF:-1 tvg-id="轮播" tvg-name="轮播·爱情公寓" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/mengxianshengaaa/live/main/lunbo.png" group-title="电影影视" ,「轮播」爱情公寓
-http://47.236.28.28:35455/huya/11336726
+
 #EXTINF:-1 tvg-id="轮播" tvg-name="轮播·电视剧" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/mengxianshengaaa/live/main/lunbo.png" group-title="电影影视" ,「轮播」电视剧
 http://api2.52tb.xyz/info?id=1012&token=20230326mnlzkr
 #EXTINF:-1 tvg-id="轮播" tvg-name="轮播·林正英" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/mengxianshengaaa/live/main/lunbo.png" group-title="电影影视" ,「轮播」林正英
-http://47.236.28.28:35455/yy/1354932444
+
 #EXTINF:-1 tvg-id="轮播" tvg-name="轮播·周星驰" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/mengxianshengaaa/live/main/lunbo.png" group-title="电影影视" ,「轮播」周星驰
-http://47.236.28.28:35455/huya/11342412
+
 #EXTINF:-1 tvg-id="轮播" tvg-name="轮播·成龙" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/mengxianshengaaa/live/main/lunbo.png" group-title="电影影视" ,「轮播」成龙
-http://47.236.28.28:35455/yy/1354888751
+
 #EXTINF:-1 tvg-id="轮播" tvg-name="轮播·刘德华" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/mengxianshengaaa/live/main/lunbo.png" group-title="电影影视" ,「轮播」刘德华
-http://47.236.28.28:35455/douyu/2516864
+
 #EXTINF:-1 tvg-id="轮播" tvg-name="轮播·恐怖电影" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/mengxianshengaaa/live/main/lunbo.png" group-title="电影影视" ,「轮播」恐怖电影
-http://zzy789.xyz/douyu1.php?id=310926
+
 #EXTINF:-1 tvg-id="重温经典" tvg-name="重温经典" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/mengxianshengaaa/live/main/chongwenjingdian.png" group-title="电影影视" ,重温经典
-http://1.62.64.234/0b926d37065dc656266be75dd9d25565.v.smtcdns.net/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225563/index.m3u8
+
 #EXTINF:-1 tvg-id="峨眉电影" tvg-name="峨眉电影" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/mengxianshengaaa/live/main/emeidianying.png" group-title="电影影视" ,峨眉电影
-http://tom028.top:55555/udp/239.93.0.252:5140
+
 #EXTINF:-1 tvg-id="天府TV综合" tvg-name="天府TV综合" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/mengxianshengaaa/live/main/tianfutv.png" group-title="电影影视" ,天府TV综合
-http://183.222.72.116:6868/rtp/239.10.0.189:5140
+
 #EXTINF:-1 tvg-id="经典再现" tvg-name="经典再现" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/mengxianshengaaa/live/main/tianfutv.png" group-title="电影影视" ,经典再现
-http://183.222.72.116:6868/rtp/239.10.0.130:5140
+
 #EXTINF:-1 tvg-id="军旅谍战" tvg-name="军旅谍战" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/mengxianshengaaa/live/main/tianfutv.png" group-title="电影影视" ,军旅谍战
-http://183.222.72.116:6868/rtp/239.10.0.131:5140
+
 #EXTINF:-1 tvg-id="教育综合" tvg-name="教育综合" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/mengxianshengaaa/live/main/tianfutv.png" group-title="电影影视" ,教育综合
-http://183.222.72.116:6868/rtp/239.10.0.136:5140
+
 #EXTINF:-1 tvg-id="辣妈学院" tvg-name="辣妈学院" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/mengxianshengaaa/live/main/tianfutv.png" group-title="电影影视" ,辣妈学院
-http://183.222.72.116:6868/rtp/239.10.0.137:5140
+
 #EXTINF:-1 tvg-id="风尚美食" tvg-name="风尚美食" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/mengxianshengaaa/live/main/tianfutv.png" group-title="电影影视" ,风尚美食
-http://183.222.72.116:6868/rtp/239.10.0.138:5140
+
 #EXTINF:-1 tvg-id="健康生活" tvg-name="健康生活" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/mengxianshengaaa/live/main/tianfutv.png" group-title="电影影视" ,健康生活
-http://183.222.72.116:6868/rtp/239.10.0.139:5140
+
 #EXTINF:-1 tvg-id="魔力荟萃" tvg-name="魔力荟萃" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/mengxianshengaaa/live/main/tianfutv.png" group-title="电影影视" ,魔力荟萃
-http://183.222.72.116:6868/rtp/239.10.0.140:5140
+
 #EXTINF:-1 tvg-id="时尚天地" tvg-name="时尚天地" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/mengxianshengaaa/live/main/tianfutv.png" group-title="电影影视" ,时尚天地
-http://183.222.72.116:6868/rtp/239.10.0.141:5140
+
 #EXTINF:-1 tvg-id="星动娱乐" tvg-name="星动娱乐" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/mengxianshengaaa/live/main/tianfutv.png" group-title="电影影视" ,星动娱乐
-http://183.222.72.116:6868/rtp/239.10.0.142:5140
+
 #EXTINF:-1 tvg-id="时尚生活" tvg-name="时尚生活" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/mengxianshengaaa/live/main/tianfutv.png" group-title="电影影视" ,时尚生活
-http://183.222.72.116:6868/rtp/239.10.0.144:5140
+
 #EXTINF:-1 tvg-id="魔力TV" tvg-name="魔力TV" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/mengxianshengaaa/live/main/tianfutv.png" group-title="电影影视" ,魔力TV
-http://183.222.72.116:6868/rtp/239.10.0.145:5140
+
 #EXTINF:-1 tvg-id="人文记录" tvg-name="人文记录" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/mengxianshengaaa/live/main/tianfutv.png" group-title="电影影视" ,人文记录
-http://183.222.72.116:6868/rtp/239.10.0.166:5140
+
 #EXTINF:-1 tvg-id="高清影院" tvg-name="高清影院" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/mengxianshengaaa/live/main/tianfutv.png" group-title="电影影视" ,高清影院
-http://183.222.72.116:6868/rtp/239.10.0.188:5140
+
 #EXTINF:-1 tvg-id="星空卫视" tvg-name="星空卫视" tvg-logo="https://live.fanmingming.com/tv/星空卫视.png" group-title="大陆外（部分网络无法使用）",星空卫视（港）
-http://wouu.net:9977/udp/239.93.0.156:2193
+
 #EXTINF:-1 tvg-id="V" tvg-name="V" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/mengxianshengaaa/live/main/v.png" group-title="大陆外（部分网络无法使用）",V音悦台（港）
-http://wouu.net:9977/udp/239.93.0.157:2194
+
 #EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视中文台.png" group-title="大陆外（部分网络无法使用）",凤凰中文（港）
-http://[2409:8087:2001:20:2800:0:df6e:eb22]:80/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8
+
 #EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视资讯台.png" group-title="大陆外（部分网络无法使用）",凤凰资讯（港）
-http://[2409:8087:2001:20:2800:0:df6e:eb19]:80/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8
+
 #EXTINF:-1 tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视香港台.png" group-title="大陆外（部分网络无法使用）",凤凰香港（港）
-http://[2409:8087:2001:20:2800:0:df6e:eb23]:80/ott.mobaibox.com/PLTV/1/224/3221228530/1.m3u8
+
 #EXTINF:-1 tvg-id="HBO" tvg-name="HBO" tvg-logo="https://live.fanmingming.com/tv/HBO.png" group-title="大陆外（部分网络无法使用）",HBO（美）
-http://51.77.65.194:27347/livehttpplay?channel_id=20093
+
 #EXTINF:-1 tvg-id="HBO HiTS" tvg-name="HBO HiTS" tvg-logo="https://live.fanmingming.com/tv/HBOHits.png" group-title="大陆外（部分网络无法使用）",HBO HiTS（美）
-http://51.77.65.194:27347/livehttpplay?channel_id=20091
+
 #EXTINF:-1 tvg-id="LSTime电影" tvg-name="LSTime电影台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/LSTIME.png" group-title="大陆外（部分网络无法使用）",龙祥电影（台）
-http://51.77.65.194:27347/livehttpplay?channel_id=20114
+
 #EXTINF:-1 tvg-id="东森电影" tvg-name="东森电影台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCMovies.png" group-title="大陆外（部分网络无法使用）",东森电影（台）
-http://8.217.189.23/live/jrlive.php?id=ebcmovies
+
 #EXTINF:-1 tvg-id="东森电影" tvg-name="东森电影台（备用）" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCMovies.png" group-title="大陆外（部分网络无法使用）",东森电影备用（台）
-http://51.77.65.194:27347/livehttpplay?channel_id=20077
+
 #EXTINF:-1 tvg-id="东森洋片" tvg-name="东森洋片" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCWesternMovies.png" group-title="大陆外（部分网络无法使用）",东森洋片（台）
-http://8.217.189.23/live/jrlive.php?id=ebcforeign
+
 #EXTINF:-1 tvg-id="东森综合" tvg-name="东森综合台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCVariety.png" group-title="大陆外（部分网络无法使用）",东森综合（台）
-http://51.77.65.194:27347/livehttpplay?channel_id=20104
+
 #EXTINF:-1 tvg-id="东森超视" tvg-name="东森超视台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCSuper.png" group-title="大陆外（部分网络无法使用）",东森超视（台）
-http://8.217.189.23/live/jrlive.php?id=ETTVSuper
+
 #EXTINF:-1 tvg-id="东森戏剧" tvg-name="东森戏剧台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCDrama.png" group-title="大陆外（部分网络无法使用）",东森戏剧（台）
-http://51.77.65.194:27347/livehttpplay?channel_id=20072
+
 #EXTINF:-1 tvg-id="东森新闻" tvg-name="东森新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCNews.png" group-title="大陆外（部分网络无法使用）",东森新闻（台）
-http://51.77.65.194:27347/livehttpplay?channel_id=20082
+
 #EXTINF:-1 tvg-id="三立都会" tvg-name="三立都会" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SETCity.png" group-title="大陆外（部分网络无法使用）",三立都会（台）
-http://51.77.65.194:27347/livehttpplay?channel_id=20100
+
 #EXTINF:-1 tvg-id="TVBS精采台" tvg-name="TVBS精采台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBS精采.png" group-title="大陆外（部分网络无法使用）",TVBS精采台（台）
-http://51.89.21.73:27347/livehttpplay?channel_id=20136
+
 #EXTINF:-1 tvg-id="TVBS欢乐台" tvg-name="TVBS欢乐台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBS欢乐.png" group-title="大陆外（部分网络无法使用）",TVBS欢乐台（台）
-http://8.217.189.23/live/jrlive.php?id=tvbsent
+
 #EXTINF:-1 tvg-id="TVBS新闻台" tvg-name="TVBS新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBS新闻.png" group-title="大陆外（部分网络无法使用）",TVBS新闻台（台）
-http://8.217.189.23/live/jrlive.php?id=tvbsnewslm
+
 #EXTINF:-1 tvg-id="WBtv华纳" tvg-name="WBtv华纳" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/mengxianshengaaa/live/main/huanatv.png" group-title="大陆外（部分网络无法使用）",WBtv华纳（台）
-http://51.77.65.194:27347/livehttpplay?channel_id=20112
+
 #EXTINF:-1 tvg-id="华视" tvg-name="华视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CTS.png" group-title="大陆外（部分网络无法使用）",华视HD（台）
-http://51.77.65.194:27347/livehttpplay?channel_id=20086
+
 #EXTINF:-1 tvg-id="中视" tvg-name="中视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/中视.png" group-title="大陆外（部分网络无法使用）",中视HD（台）
-http://51.77.65.194:27347/livehttpplay?channel_id=20088
+
 #EXTINF:-1 tvg-id="民视" tvg-name="民视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/民视.png" group-title="大陆外（部分网络无法使用）",民视HD（台）
-http://51.77.65.194:27347/livehttpplay?channel_id=20074
+
 #EXTINF:-1 tvg-id="台视" tvg-name="台视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/台视.png" group-title="大陆外（部分网络无法使用）",台视HD（台）
-http://51.77.65.194:27347/livehttpplay?channel_id=20076
+
 #EXTINF:-1 tvg-id="公视" tvg-name="公视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/PublicTV.png" group-title="大陆外（部分网络无法使用）",公视HD（台）
-http://8.217.189.23/live/jrlive.php?id=PTSHD
+
 #EXTINF:-1 tvg-id="日本全天新闻" tvg-name="日本全天新闻" tvg-logo="https://parco-zh.github.io/demo/riben24.png" group-title="大陆外（部分网络无法使用）",日本全天新闻（日）
-https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
+
 #EXTINF:-1 tvg-id="中天娱乐" tvg-name="中天娱乐台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CtiEntertainment.png" group-title="大陆外（部分网络无法使用）",中天娱乐（台）
-http://51.77.65.194:27347/livehttpplay?channel_id=20079
+
 #EXTINF:-1 tvg-id="寰宇新闻" tvg-name="寰宇新闻台湾台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/GlobalNews.png" group-title="大陆外（部分网络无法使用）",寰宇新闻台湾（台）
-http://51.89.21.73:27347/livehttpplay?channel_id=20196
+
 #EXTINF:-1 tvg-id="非凡新闻" tvg-name="非凡新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/UniqueNews.png" group-title="大陆外（部分网络无法使用）",非凡新闻（台）
-http://8.217.189.23/live/jrlive.php?id=ustvnews
+
 #EXTINF:-1 tvg-id="八大综合" tvg-name="八大综合台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/GTVVarietyHD.png" group-title="大陆外（部分网络无法使用）",八大综合（台）
-http://8.217.189.23/live/jrlive.php?id=badaent
+
 #EXTINF:-1 tvg-id="八大戏剧" tvg-name="八大戏剧台" tvg-logo="https://live.fanmingming.com/tv/GTVDramaHD.png" group-title="大陆外（部分网络无法使用）",八大戏剧（台）
-http://8.217.189.23/live/jrlive.php?id=badadrama
+
 #EXTINF:-1 tvg-id="八大第一" tvg-name="八大第一台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/GTVOneHD.png" group-title="大陆外（部分网络无法使用）",八大第一（台）
-http://8.217.189.23/live/jrlive.php?id=badafirst
+
 #EXTINF:-1 tvg-id="八大娱乐" tvg-name="八大娱乐台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/GTVEntertainment.png" group-title="大陆外（部分网络无法使用）",八大娱乐（台）
-http://8.217.189.23/live/jrlive.php?id=BadaAntertain
+
 #EXTINF:-1 tvg-id="八大精彩" tvg-name="八大精彩台" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/mengxianshengaaa/live/main/badajingcai.png" group-title="大陆外（部分网络无法使用）",八大精彩（台）
-http://51.89.21.73:27347/livehttpplay?channel_id=20052
+
 #EXTINF:-1 tvg-id="ELTA综合" tvg-name="ELTA综合" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/mengxianshengaaa/live/main/eltazonghe.png" group-title="大陆外（部分网络无法使用）",ELTA综合（台）
-http://startv365.com:80/9794783213/6955630461/5541
+
 #EXTINF:-1 tvg-id="ELTA影剧" tvg-name="ELTA影剧" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/mengxianshengaaa/live/main/eltayingju.png" group-title="大陆外（部分网络无法使用）",ELTA影剧（台）
-http://8.217.189.23/live/jrlive.php?id=eltayingju
+
 #EXTINF:-1 tvg-id="纬来电影" tvg-name="纬来电影台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/VideolandMovies.png" group-title="大陆外（部分网络无法使用）",纬来电影（台）
-http://8.217.189.23/live/jrlive.php?id=103
+
 #EXTINF:-1 tvg-id="纬来综合" tvg-name="纬来综合台" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/mengxianshengaaa/live/main/weilaizonghe.png" group-title="大陆外（部分网络无法使用）",纬来综合（台）
-http://8.217.189.23/live/jrlive.php?id=VLOntv
+
 #EXTINF:-1 tvg-id="纬来戏剧" tvg-name="纬来戏剧台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/VideolandDrama.png" group-title="大陆外（部分网络无法使用）",纬来戏剧（台）
-http://8.217.189.23/live/jrlive.php?id=VLXiju
+
 #EXTINF:-1 tvg-id="纬来育乐" tvg-name="纬来育乐" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/mengxianshengaaa/live/main/weilaiyule.png" group-title="大陆外（部分网络无法使用）",纬来育乐（台）
-http://8.217.189.23/live/jrlive.php?id=VLMaxtv
+
 #EXTINF:-1 tvg-id="纬来日本" tvg-name="纬来日本台" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/mengxianshengaaa/live/main/weilairiben.png" group-title="大陆外（部分网络无法使用）",纬来日本（台）
-http://8.217.189.23/live/jrlive.php?id=VLJapan
+
 #EXTINF:-1 tvg-id="龙华电影" tvg-name="龙华电影" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/mengxianshengaaa/live/main/longhuadianying.png" group-title="大陆外（部分网络无法使用）",龙华电影（台）
-http://8.217.189.23/live/jrlive.php?id=ltvmovies
+
 #EXTINF:-1 tvg-id="龙华戏剧" tvg-name="龙华戏剧" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/mengxianshengaaa/live/main/longhuaxiju.png" group-title="大陆外（部分网络无法使用）",龙华戏剧（台）
-http://8.217.189.23/live/jrlive.php?id=ltvdrama
+
 #EXTINF:-1 tvg-id="龙华洋片" tvg-name="龙华洋片" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/龙华洋片.png" group-title="大陆外（部分网络无法使用）",龙华洋片（台）
-http://8.217.189.23/live/jrlive.php?id=ltvforeign
+
 #EXTINF:-1 tvg-id="龙华偶像" tvg-name="龙华偶像" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/龙华偶像.png" group-title="大陆外（部分网络无法使用）",龙华偶像（台）
-http://8.217.189.23/live/jrlive.php?id=LHOXT
+
 #EXTINF:-1 tvg-id="龙华日韩" tvg-name="龙华日韩" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/龙华日韩.png" group-title="大陆外（部分网络无法使用）",龙华日韩（台）
-http://8.217.189.23/live/jrlive.php?id=ltvjpkr
+
 #EXTINF:-1 tvg-id="美亚电影" tvg-name="美亚电影台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/meiyamovie.png" group-title="大陆外（部分网络无法使用）",美亚电影（台）
-http://8.217.189.23/live/jrlive.php?id=CMAMHK
+
 #EXTINF:-1 tvg-id="好莱坞电影" tvg-name="好莱坞电影台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HMC.png" group-title="大陆外（部分网络无法使用）",好莱坞电影（台）
-http://8.217.189.23/live/jrlive.php?id=Hollywoodmovies
+
 #EXTINF:-1 tvg-id="尼克兒童頻道" tvg-name="尼克兒童頻道" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/mengxianshengaaa/live/main/nikeertong.png" group-title="大陆外（部分网络无法使用）",尼克兒童頻道（台）
-http://8.217.189.23/live/jrlive.php?id=CNIKO
+
 #EXTINF:-1 tvg-id="CN卡通频道" tvg-name="CN卡通频道" tvg-logo="https://live.fanmingming.com/tv/CNCartoon.png" group-title="大陆外（部分网络无法使用）",CN卡通频道（台）
-http://8.217.189.23/live/jrlive.php?id=CNTW
+
 #EXTINF:-1 tvg-id="momotv" tvg-name="momotv" tvg-logo="https://live.fanmingming.com/tv/momotv.png" group-title="大陆外（部分网络无法使用）",momotv（台）
-http://8.217.189.23/live/jrlive.php?id=MOMOTV
+
 #EXTINF:-1 tvg-id="momo亲子台" tvg-name="momo亲子台" tvg-logo="https://live.fanmingming.com/tv/MOMOkids.png" group-title="大陆外（部分网络无法使用）",momo亲子台（台）
-http://8.217.189.23/live/jrlive.php?id=MOMOQZT
+
 #EXTINF:-1 tvg-id="BBCFirst" tvg-name="BBCFirst" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/mengxianshengaaa/live/main/bbcdiyi.png" group-title="大陆外（部分网络无法使用）",BBCFirst（英）
-https://cdn-main.lolokoko.tv/BBCHD.stream/playlist.m3u8
+
 #EXTINF:-1 tvg-id="TVB星河" tvg-name="TVB星河" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/mengxianshengaaa/live/main/tvbxinghe.png" group-title="大陆外（部分网络无法使用）",TVB星河（港）
-http://51.77.65.194:27347/livehttpplay?channel_id=20070 
+
 #EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台&多音轨" tvg-logo="https://live.fanmingming.com/tv/翡翠台.png" group-title="大陆外（部分网络无法使用）",翡翠台&多音轨（港）
-http://bziyunshao.synology.me:8889/bysid/1
+
 #EXTINF:-1 tvg-id="TVB无线新闻台" tvg-name="无线新闻&多音轨" tvg-logo="https://live.fanmingming.com/tv/无线新闻台.png" group-title="大陆外（部分网络无法使用）",无线新闻&多音轨（港）
-http://bziyunshao.synology.me:8890/bysid/83
+
 #EXTINF:-1 tvg-id="TVB明珠台" tvg-name="明珠台&多音轨" tvg-logo="https://live.fanmingming.com/tv/TVB明珠台.png" group-title="大陆外（部分网络无法使用）",明珠台&多音轨（港）
-http://bziyunshao.synology.me:8890/bysid/2
+
 #EXTINF:-1 tvg-id="J2" tvg-name="J2&多音轨" tvg-logo="https://live.fanmingming.com/tv/J2.png" group-title="大陆外（部分网络无法使用）",J2&多音轨（港）
-http://bziyunshao.synology.me:8890/bysid/82
+
 #EXTINF:-1 tvg-id="RTHK32" tvg-name="RTHK32&多音轨" tvg-logo="https://iptv-pro.github.io/logo/RTHK32.png" group-title="大陆外（部分网络无法使用）",RTHK32&多音轨（港）
-http://bziyunshao.synology.me:8892/bysid/32
+
 #EXTINF:-1 tvg-id="RTHK31" tvg-name="RTHK31&多音轨" tvg-logo="https://iptv-pro.github.io/logo/RTHK31.png" group-title="大陆外（部分网络无法使用）",RTHK31&多音轨（港）
-http://feng163.com:9002/bysid/31
+
 #EXTINF:-1 tvg-id="HOY77" tvg-name="HOY77&多音轨" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/mengxianshengaaa/live/main/hoy77.png" group-title="大陆外（部分网络无法使用）",HOY77&多音轨（港）
-http://bziyunshao.synology.me:8891/bysid/77
+
 #EXTINF:-1 tvg-id="ViuTv" tvg-name="ViuTv&多音轨" tvg-logo="https://live.fanmingming.com/tv/viutv.png" group-title="大陆外（部分网络无法使用）",ViuTv&多音轨（港）
-http://bziyunshao.synology.me:8889/bysid/99
+
 #EXTINF:-1 tvg-id="ViuTv 6台" tvg-name="ViuTv6&多音轨" tvg-logo="https://live.fanmingming.com/tv/viutv.png" group-title="大陆外（部分网络无法使用）",ViuTv6&多音轨（港）
-http://bziyunshao.synology.me:8889/bysid/96
+
 #EXTINF:-1 tvg-id="LSTime电影" tvg-name="LSTime电影台&系统硬解" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/LSTIME.png" group-title="大陆外（部分网络无法使用）",龙祥电影&系统硬解（台）
-https://ctrl.laotv.la/live/Longxiang/index.m3u8
+
 #EXTINF:-1 tvg-id="天映频道" tvg-name="天映频道&系统硬解" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/mengxianshengaaa/live/main/tianyingpindao.png" group-title="大陆外（部分网络无法使用）",天映频道&系统硬解（台）
-https://ctrl.laotv.la/live/CHCA/index.m3u8
+
 #EXTINF:-1 tvg-id="amc电影" tvg-name="amc电影&系统硬解" tvg-logo="https://live.fanmingming.com/tv/AMC.png" group-title="大陆外（部分网络无法使用）",amc电影&系统硬解（台）
-https://ctrl.laotv.la/live/StarMovie/index.m3u8
+
 #EXTINF:-1 tvg-id="HBO" tvg-name="HBO&系统硬解" tvg-logo="https://live.fanmingming.com/tv/HBO.png" group-title="大陆外（部分网络无法使用）",HBO&系统硬解（美）
-https://ctrl.laotv.la/live/HBO/index.m3u8
+
 #EXTINF:-1 tvg-id="莲花电影" tvg-name="莲花电影&系统硬解" tvg-logo="https://live.fanmingming.com/tv/澳门莲花.png" group-title="大陆外（部分网络无法使用）",莲花电影&系统硬解（澳）
-https://edge2.laotv.la/live/AomenLotus/index.m3u8
+
 #EXTINF:-1 tvg-id="东森洋片" tvg-name="东森洋片&系统硬解" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCWesternMovies.png" group-title="大陆外（部分网络无法使用）",东森洋片&系统硬解（台）
-https://edge1.laotv.la/live/DongsenForeignMovie/index.m3u8
+
 #EXTINF:-1 tvg-id="东森电影" tvg-name="东森电影&系统硬解" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCMovies.png" group-title="大陆外（部分网络无法使用）",东森电影&系统硬解（台）
-https://edge2.laotv.la/live/DongsenMovie/index.m3u8
+
 #EXTINF:-1 tvg-id="HBOfamily" tvg-name="HBOfamily（联通正常）" tvg-logo="https://live.fanmingming.com/tv/HBOFamily.png" group-title="大陆外（部分网络无法使用）",HBO family（联通正常）
 http://198.16.100.90:8278/fyi_twn/playlist.m3u8?tid=m99b80124e3b4&ct=18337&tsum=73f6f540497de9a5615b9bd55bec8853
 #EXTINF:-1 tvg-id="HBO Signature" tvg-name="HBO Signature（联通正常）" tvg-logo="https://live.fanmingming.com/tv/HBOSignature.png" group-title="大陆外（部分网络无法使用）",HBO Signature（联通正常）
