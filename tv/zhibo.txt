@@ -1,4 +1,4 @@
-央视频道,#genre#,http://diyp.112114.xyz
+央视频道,#genre#
 CCTV1&江苏v6,rtsp://[2409:8087:2001:20:2800:0:df6e:eb18]:554/ott.mobaibox.com/000000400000001/H265_8000k_1080P_cctv1_CR
 CCTV1综合（5.1环绕声）,http://nas.hssvm.com:8888/udp/225.1.1.120:5002
 CCTV1综合,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226559/index.m3u8
