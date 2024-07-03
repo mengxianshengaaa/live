@@ -375,7 +375,7 @@ NewTv惊悚悬疑,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225665/
 轮播·洪金宝,http://cfss.cc/cdn/hy/11279251.flv
 轮播·周星驰,http://huanqiuzhibo.cn/manifest/douyu.php?id=122402
 轮播·刘德华,http://cfss.cc/cdn/hy/11342423.flv
-轮播·恐怖电影,http://huanqiuzhibo.cn/manifest/douyu.php?id=218859
+轮播·恐怖电影,http://159.75.85.63:35455/douyu/2935323&http://huanqiuzhibo.cn/manifest/douyu.php?id=2935323
 轮播·恐怖电影2,http://huanqiuzhibo.cn/manifest/douyu.php?id=96577
 轮播·邵氏电影,http://lxajh.top/tv/douyu.php?id=4246519
 轮播·60帧电影,http://zzy789.xyz/douyu1.php?id=747764
