@@ -331,13 +331,13 @@ NewTv惊悚悬疑,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225665/
 河南卫视, http://[2409:8087:4402:20:1:1216:401:11]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226463/index.m3u8
 河南卫视,http://61.163.181.78:9901/tsfile/live/1034_1.m3u8?key=txiptv&playlive=1&authid=0
 河南公共,http://[2409:8087:4402:20:1:1216:401:2a]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226566/index.m3u8
-河南公共,http://125.43.40.187:9999/udp/225.1.4.58:1087
+河南公共,http://115.60.241.249:2000/rtp/225.1.4.58:1087
 河南文博,http://[2409:8087:4402:20:1:1216:401:37]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226447/index.m3u8
-河南文博,http://ik6.iptv8.net:8888/udp/225.1.4.100:1129
+河南文博,http://115.60.241.249:2000/rtp/225.1.4.100:1129
 河南乡村,http://[2409:8087:4402:20:1:1216:401:37]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226443/index.m3u8
-河南乡村,http://ik6.iptv8.net:8888/udp/225.1.4.120:1149?
+河南乡村,http://115.60.241.249:2000/rtp/225.1.4.120:1149?
 河南功夫,http://[2409:8087:4402:20:1:1216:401:40]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226692/index.m3u8
-河南功夫,http://ik6.iptv8.net:8888/udp/225.1.4.101:1130?
+河南功夫,http://115.60.241.249:2000/rtp/225.1.4.101:1130?
 河南梨园,http://sqp51974398.zicp.io:4022/udp/239.76.252.179:9000?
 河南梨园（ipv6）,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380788ba7bed/index.m3u8?AuthInfo=toEYVdLfxymUP2l9NZpQI5%2BK6T7j%2FlRm%2BvbM9VO7bA0q1S1k1f36SqqriM0FZoFSAJRfCt8SS7X6sTRmXb81a8O4H%2FdroDKjLoDeaMQdyJQ
 河南尉氏,http://tvpull.dxhmt.cn:9081/tv/10223-1.m3u8
