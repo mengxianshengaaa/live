@@ -601,7 +601,7 @@ Z频道（台）,P2p://generationnexxxt.com:19806/8789d946039740bda334150ac31381
 罪案侦缉频道（台）,mitv://generationnexxxt.com:19806/ef7b4ee3be374092a4a0074a6be41e03
 
 
-mitv格式香港频道,#genre#
+mitv格式&香港频道,#genre#
 凤凰中文台,mitv://generationnexxxt.com:19806/64e1ab2a000417167359b3ca0417008f#mitv://generationnexxxt.com:19806/65fd687c000dccf1362379174a9617fc	
 凤凰资讯台,mitv://generationnexxxt.com:19806/6684e9f6606f49fba9b6de846dbdcb64#mitv://generationnexxxt.com:19806/65fd6d04000e7c8036352c8637e97c89
 凤凰香港台,mitv://generationnexxxt.com:19806/8e396c3ec52f4eee9e5b7868042b1bf2
