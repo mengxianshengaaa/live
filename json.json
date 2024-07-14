@@ -2,33 +2,8 @@
 //"spider": "https://raw.gitcode.com/frxz751113/1/blobs/5f4fe9b3dc2a5d63efddb6d7ce8f678a76ffa746/极速.jar",
 
 
-"lives": [{"name": "live","type": 0,"url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/mengxianshengaaa/IPTV/main/iptv_list.txt","playerType": 1,"ua": "okhttp/3.12.13",
-"epg": "http://epg.112114.eu.org","logo": "http://epg.112114.xyz/logo/{name}.png"},
-    {
-      "name": "江西电信",
-      "type": 0,
-      "url": "https://www.gitlink.org.cn/attachments/entries/get_file?download_url=https://www.gitlink.org.cn/api/hailin/tvboxme/raw/lives%2FJXChinaNat.txt?ref=master",
-      "playerType": 1,
-      "epg": "http://diyp2.112114.xyz/?ch={name}&date={date}",
-		"logo": "http://diyp2.112114.xyz/logo/{name}.png"
-    },
-    {
-      "name": "江西移动",
-      "type": 0,
-      "url": "https://www.gitlink.org.cn/attachments/entries/get_file?download_url=https://www.gitlink.org.cn/api/hailin/tvboxme/raw/lives%2Fyidong8.txt?ref=master",
-      "playerType": 2,
-      "epg": "http://diyp2.112114.xyz/?ch={name}&date={date}",
-		"logo": "http://diyp2.112114.xyz/logo/{name}.png"
-    },
-    {
-      "name": "魔改直播",
-      "type": 0,
-      "url": "http://rihou.cc:555/gggg.nzk",
-      "playerType": 2,
-      "epg": "http://diyp2.112114.xyz/?ch={name}&date={date}",
-		"logo": "http://diyp2.112114.xyz/logo/{name}.png"
-
-}],
+"lives": [{"name": "live","type": 0,"url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/mengxianshengaaa/IPTV/main/iptv_list.txt","playerType": 1,"ua": "okhttp/3.15",
+"epg": "http://diyp2.112114.xyz/?ch={name}&date={date}","logo": "http://diyp2.112114.xyz/logo/{name}l"}],
 
 
 "sites": [
