@@ -8,7 +8,6 @@
       "name": "江西电信",
       "type": 0,
       "url": "https://www.gitlink.org.cn/attachments/entries/get_file?download_url=https://www.gitlink.org.cn/api/hailin/tvboxme/raw/lives%2FJXChinaNat.txt?ref=master",
-      "ua": "okhttp/3.15",
       "playerType": 1,
       "epg": "http://diyp2.112114.xyz/?ch={name}&date={date}",
 		"logo": "http://diyp2.112114.xyz/logo/{name}.png"
@@ -18,7 +17,6 @@
       "type": 0,
       "url": "https://www.gitlink.org.cn/attachments/entries/get_file?download_url=https://www.gitlink.org.cn/api/hailin/tvboxme/raw/lives%2Fyidong8.txt?ref=master",
       "playerType": 2,
-      "ua": "okhttp/3.15",
       "epg": "http://diyp2.112114.xyz/?ch={name}&date={date}",
 		"logo": "http://diyp2.112114.xyz/logo/{name}.png"
     },
@@ -27,7 +25,6 @@
       "type": 0,
       "url": "http://rihou.cc:555/gggg.nzk",
       "playerType": 2,
-      "ua": "okhttp/3.15",
       "epg": "http://diyp2.112114.xyz/?ch={name}&date={date}",
 		"logo": "http://diyp2.112114.xyz/logo/{name}.png"
     }
