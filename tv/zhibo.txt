@@ -710,23 +710,24 @@ NewTv惊悚悬疑,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225665/
 甘肃少儿,http://[2409:8087:74F1:0021::0008]:80/270000001111/1110000327/index.m3u8?
 
 电影影视,#genre#
-轮播·经典影剧,http://lxajh.top/tv/douyu.php?id=3928
 轮播·地下交通站,http://cfss.cc/cdn/hy/11342433.flv
 轮播·爱情公寓,https://live.metshop.top/huya/11336726
 轮播·林正英,http://cfss.cc/cdn/hy/11342421.flv
 轮播·铁齿铜牙纪晓岚,https://live.metshop.top/huya/11342396
 轮播·洪金宝,http://cfss.cc/cdn/hy/11279251.flv
-轮播·周星驰,http://huanqiuzhibo.cn/manifest/douyu.php?id=122402
+轮播·热门电影,http://huanqiuzhibo.cn/manifest/douyu.php?id=122402
+轮播·周星驰,http://tc-tct.douyucdn2.cn/dyliveflv1a/3637778raLSXdOdu.flv?wsAuth=77fb864de851377bf42c927b381de2be&token=cpn-androidmpro-0-3637778-8c089871434b9344fcaab88b736d84e387ca294ad4662324&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play
 轮播·刘德华,http://cfss.cc/cdn/hy/11342423.flv
 轮播·恐怖电影,http://huanqiuzhibo.cn/manifest/douyu.php?id=2935323
 轮播·恐怖电影2,http://huanqiuzhibo.cn/manifest/douyu.php?id=96577
-轮播·邵氏电影,http://lxajh.top/tv/douyu.php?id=4246519
+轮播·贺岁电影,http://cfss.cc/cdn/hy/11601971.flv
 轮播·60帧电影,http://zzy789.xyz/douyu1.php?id=747764
 山西影视,http://liveflash.sxrtv.com/live/sxfilm.m3u8?sub_m3u8=true&edge_slice=true
 重温经典,http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
 重温经典（卫星）,http://117.114.153.26:8180/TV00000000000000000007@HHZT
 峨眉电影,http://xeace.cn:8888/udp/239.93.0.252:5140
 四川影视,http://118.122.2.29:9999/hls/53/index.m3u8
+
 
 大陆外（部分网络无法使用）,#genre#
 星空卫视,http://yujukoo.gicp.net:8888/udp/239.93.0.156:2193
