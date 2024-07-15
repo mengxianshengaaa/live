@@ -8,10 +8,10 @@ if not os.path.exists('./IPTV/'):
     os.makedirs('./IPTV/')
 
 # 文件 URL
-url = "https://A.com/IPTV/main/IPTV.m3u"
+url = "https://raw.gitcode.com/mengxiansheng/fengapi/raw/main/zhibo.m3u"
 
 # 下载 IPTV.m3u 文件
-file_path = "./IPTV/IPTV.m3u"
+file_path = "./IPTV/zhibo.m3u"
 urllib.request.urlretrieve(url, file_path)
 print("m3u 文件下载完成")
 
@@ -49,7 +49,7 @@ for group_title, channels_in_group in grouped_channels.items():
     sorted_channels.extend(sorted(channels_in_group, key=lambda x: x["line_index"]))
 
 # 输出到文件
-output_file_path = "./IPTV/IPTV-tvbox.txt"
+output_file_path = "./tv/zhibo1.txt"
 with open(output_file_path, "w", encoding="utf-8") as output_file:
     prev_group_title = None
     for channel in sorted_channels:
