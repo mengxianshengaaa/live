@@ -1,4 +1,4 @@
-通用网络ipv6,#genre#
+通用网络ipv6,#genre#,http://diyp.112114.xyz
 CCTV1,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN111128BESTVSMGSMG/1.m3u8?m3u8_level=2
 CCTV1,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN1346BESTVSMGSMG/1.m3u8?m3u8_level=2
 CCTV1,http://[2409:8087:74F1:0021::0008]:80/000000001000PLTV/88888888/224/3221226153/index.m3u8
@@ -1223,3 +1223,4 @@ n1332, https://z100.cdn2020.com/video/m3u8/2020/07/15/e68fe14f/index.m3u8
 n1150, https://z100.cdn2020.com/video/m3u8/2020/07/14/23bdb384/index.m3u8
 n0998, https://z100.cdn2020.com/video/m3u8/2020/07/10/0a17f7bf/index.m3u8
 n1183, https://z100.cdn2020.com/video/m3u8/2020/07/07/61a670e7/index.m3u8
+
