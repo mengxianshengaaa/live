@@ -1,5 +1,14 @@
 部分频道需开ipv6,#genre#,http://diyp1.112114.xyz/
 
+央视4K&高端设备,#genre#
+CCTV1-4K 需将UA改成'okhttp/3',http://148.135.93.213:81/live.php?id=CCTV1-4K
+CCTV3-4K,http://148.135.93.213:81/live.php?id=CCTV3-4K
+CCTV5-4K,http://148.135.93.213:81/live.php?id=CCTV5-4K
+CCTV6-高码,http://148.135.93.213:81/live.php?id=CCTV6-4K
+CCTV8-高码,http://148.135.93.213:81/live.php?id=CCTV8-4K
+CCTV16-4K,http://148.135.93.213:81/live.php?id=CCTV16-4K
+CCTV4K超高清,http://148.135.93.213:81/live.php?id=CCTV4K
+
 通用网络ipv6,#genre#
 CCTV1,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN111128BESTVSMGSMG/1.m3u8?m3u8_level=2
 CCTV1,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN1346BESTVSMGSMG/1.m3u8?m3u8_level=2
