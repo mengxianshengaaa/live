@@ -1,4 +1,4 @@
-部分频道需开ipv6,#genre#,http://diyp1.112114.xyz/
+7.20-7.26进行频道整合,#genre#,http://diyp1.112114.xyz/
 
 央视4K&高端设备,#genre#
 CCTV1-4K,http://148.135.93.213:81/live.php?id=CCTV1-4K
