@@ -132,3 +132,10 @@ http://prettyalan.vicp.cc:8888/rtp/239.61.2.6:8030
 http://prettyalan.vicp.cc:8888/rtp/239.61.2.5:8024
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="定制频道",时尚4K
 http://fash2043.cloudycdn.services//slive/_definst_/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/chunklist_b10668000_t64NGs=.m3u8
+#EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml"
+#EXTINF:-1 tvg-name="轮播音乐1" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/mengxianshengaaa/live/main/lunbo.png",轮播音乐1
+https://vdse.bdstatic.com//8ad29ca92a901b9992431cf0c5266101.mp4
+#EXTINF:-1 tvg-name="轮播音乐2" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/mengxianshengaaa/live/main/lunbo.png",轮播音乐2
+https://vd2.bdstatic.com/mda-ncsh78jh0xna7ngs/sc/cae_h264_delogo/1648389408244925817/mda-ncsh78jh0xna7ngs.mp4
+#EXTINF:-1 tvg-name="轮播音乐3" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/mengxianshengaaa/live/main/lunbo.png",轮播音乐3
+https://vdse.bdstatic.com//bf4bb1d82b2eb17681c49e745dc2da21.mp4
