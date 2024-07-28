@@ -74,7 +74,7 @@ http://nas.tuyuannet.cn:8800/udp/239.37.0.78:5540
 
 #EXTINF:-1 tvg-id="重温经典" tvg-name="重温经典（卫星）" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/mengxianshengaaa/live/main/chongwenjingdian.png" group-title="定制频道" ,重温经典（卫星）
 http://117.114.153.26:8180/TV00000000000000000007@HHZT
-#EXTINF:-1,tvg-id="金马影院" tvg-name="金马影院" tvg-logo="https://epg.112114.xyz/logo/金马影院.png" group-title="定制频道",金马影院
+#EXTINF:-1,tvg-id="金马影院" tvg-name="金马影院" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/mengxianshengaaa/live/main/jinma.png" group-title="定制频道",金马影院
 https://pull.kktv8.com/livekktv/128600025.flv
 #EXTINF:-1 tvg-id="峨眉电影" tvg-name="峨眉电影" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/mengxianshengaaa/live/main/emeidianying.png" group-title="定制频道" ,峨眉电影
 http://xeace.cn:8888/udp/239.93.0.252:5140
