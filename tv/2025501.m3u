@@ -118,7 +118,7 @@ http://sqp51974398.zicp.io:4022/rtp/239.76.253.106:9000
 http://sqp51974398.zicp.io:4022/rtp/239.76.253.103:9000
 #EXTINF:-1 tvg-id="湖南爱晚" tvg-name="湖南爱晚" tvg-logo="https://live.fanmingming.com/tv/湖南爱晚.png" group-title="定制频道",湖南爱晚
 http://sqp51974398.zicp.io:4022/rtp/239.76.253.109:9000
-#EXTINF:-1 tvg-id="6013" tvg-name="广东体育" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/GDTV3.png" group-title="定制频道",广东体育
+#EXTINF:-1 tvg-id="6013" tvg-name="广东体育" tvg-logo="https://live.fanmingming.com/tv/广东体育.png" group-title="定制频道",广东体育
 http://home.yellowbee.top:18080/D_40992_18_1805?ES1=324_1b&ES2=268_3_eng&PCR=324.ts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/mengxianshengaaa/live/main/shenzhengonggong.png" group-title="定制频道",深圳公共
 http://120.237.241.82:4000/rtp/239.77.1.126:5146
