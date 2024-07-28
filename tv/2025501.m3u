@@ -130,7 +130,5 @@ http://120.237.241.82:4000/udp/239.77.1.176:5146
 http://prettyalan.vicp.cc:8888/rtp/239.61.2.6:8030
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/mengxianshengaaa/live/main/fujiandianshiju.png" group-title="定制频道",福建电视剧
 http://prettyalan.vicp.cc:8888/rtp/239.61.2.5:8024
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="定制频道",韩国美女
-https://txmov2.a.kwimgs.com/upic/2021/04/03/20/BMjAyMTA0MDMyMDU0MzZfMTE1MjQ3MDA5XzQ3MTYzMjMyNzQ3XzJfMw==_b_B51f045ff769a1d0d0c35c1e3bed6e970.mp4
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="定制频道",时尚4K
 http://fash2043.cloudycdn.services//slive/_definst_/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/chunklist_b10668000_t64NGs=.m3u8
