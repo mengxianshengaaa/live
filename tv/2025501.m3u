@@ -50,7 +50,7 @@ http://iptv.skygogo.cn:18889/rtp/239.49.0.109:8000
 #EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17农业农村" tvg-logo="https://live.fanmingming.com/tv/CCTV17.png" group-title="央视频道",CCTV-17 农业农村
 http://nas.hssvm.com:8888/udp/225.1.2.052:5002
 #EXTINF:-1 tvg-id="CCTV4K" tvg-name="CCTV4K超高清" tvg-logo="https://live.fanmingming.com/tv/CCTV4K.png" group-title="央视频道",CCTV-4K 超高清
-http://27.222.3.214/liveali-tp4k.cctv.cn/live/4K10M.stream/playlist.m3u8
+http://liveop.cctv.cn/hls/4KHD/playlist.m3u8
 
 
 
