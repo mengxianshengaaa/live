@@ -467,7 +467,7 @@ CCTV16奥林匹克,http://nas.hssvm.com:8888/udp/225.1.2.237:5002
 CCTV16奥林匹克,http://117.114.153.18:8180/TV00000000000000000136@HHZT
 CCTV16奥林匹克4K,http://iptv.skygogo.cn:18889/rtp/239.49.0.109:8000
 CCTV17农业农村,http://nas.hssvm.com:8888/udp/225.1.2.052:5002
-CCTV4K超高清,http://27.222.3.214/liveali-tp4k.cctv.cn/live/4K10M.stream/playlist.m3u8
+CCTV4K超高清,http://liveop.cctv.cn/hls/4KHD/playlist.m3u8
 CHC动作电影,http://sqp51974398.zicp.io:4022/udp/239.76.245.243:1234
 CHC动作电影(备用),http://nas.hssvm.com:8888/udp/225.1.1.215:5002
 CHC家庭影院,http://sqp51974398.zicp.io:4022/udp/239.76.252.241:9000
