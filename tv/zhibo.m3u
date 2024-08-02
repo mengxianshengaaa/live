@@ -101,7 +101,7 @@ http://222.218.159.81:85/tsfile/live/1018_1.m3u8?key=txiptv&amp;playlive=0&amp;a
 http://222.218.159.81:85/tsfile/live/1032_1.m3u8?key=txiptv&amp;playlive=0&amp;authid=0
 #EXTINF:-1 tvg-id="重温经典" tvg-name="重温经典" tvg-logo="https://live.fanmingming.com/tv/重温经典.png" group-title="50帧高流畅",重温经典
 http://222.218.159.81:85/tsfile/live/1011_1.m3u8?key=txiptv&amp;playlive=0&amp;authid=0
-#EXTINF:-1 tvg-id="重温经典" tvg-name="重温经典" tvg-logo="https://live.fanmingming.com/tv/重温经典.png" group-title="50帧高流畅",重温经典&amp;5.1环绕声
+#EXTINF:-1 tvg-id="重温经典" tvg-name="重温经典" tvg-logo="https://live.fanmingming.com/tv/重温经典.png" group-title="50帧高流畅",重温经典&5.1环绕声
 http://222.218.159.81:85/tsfile/live/1085_1.m3u8?key=txiptv&amp;playlive=0&amp;authid=0
 #EXTINF:-1 tvg-id="深圳电视剧" tvg-name="深圳电视剧" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/mengxianshengaaa/live/main/shenzhendianshiju.png" group-title="50帧高流畅",深圳电视剧
 http://222.218.159.81:85/tsfile/live/1013_1.m3u8?key=txiptv&amp;playlive=0&amp;authid=0
