@@ -43,24 +43,7 @@ CCTV8,http://171.13.119.103:808/hls/8/index.m3u8
 青海卫视,http://171.13.119.103:808/hls/90/index.m3u8
 甘肃卫视,http://171.13.119.103:808/hls/89/index.m3u8
 金鹰卡通,http://171.13.119.103:808/hls/91/index.m3u8
-CCTV2,http://222.218.159.81:85/tsfile/live/1098_1.m3u8?key=txiptv&playlive=0&authid=0
-CCTV4,http://222.218.159.81:85/tsfile/live/1099_1.m3u8?key=txiptv&playlive=0&authid=0
-CCTV8,http://222.218.159.81:85/tsfile/live/1074_1.m3u8?key=txiptv&playlive=0&authid=0
-CCTV9,http://222.218.159.81:85/tsfile/live/1022_1.m3u8?key=txiptv&playlive=0&authid=0
-CCTV15,http://222.218.159.81:85/tsfile/live/1050_1.m3u8?key=txiptv&playlive=0&authid=0
-天映经典,http://222.218.159.81:85/tsfile/live/1018_1.m3u8?key=txiptv&playlive=0&authid=0
-央视电影（国际）,http://222.218.159.81:85/tsfile/live/1032_1.m3u8?key=txiptv&playlive=0&authid=0
-tvb星河,http://222.218.159.81:85/tsfile/live/1039_1.m3u8?key=txiptv&playlive=0&authid=0
-重温经典,http://222.218.159.81:85/tsfile/live/1011_1.m3u8?key=txiptv&playlive=0&authid=0
-重温经典&5.1环绕声,http://222.218.159.81:85/tsfile/live/1085_1.m3u8?key=txiptv&playlive=0&authid=0
-深圳电视剧,http://222.218.159.81:85/tsfile/live/1013_1.m3u8?key=txiptv&playlive=0&authid=0
-深圳都市,http://222.218.159.81:85/tsfile/live/1012_1.m3u8?key=txiptv&playlive=0&authid=0
-深圳体育,http://222.218.159.81:85/tsfile/live/1015_1.m3u8?key=txiptv&playlive=0&authid=0
-深圳娱乐,http://222.218.159.81:85/tsfile/live/1014_1.m3u8?key=txiptv&playlive=0&authid=0
-江西卫视,http://222.218.159.81:85/tsfile/live/1037_1.m3u8?key=txiptv&playlive=0&authid=0
-广西都市,http://222.218.159.81:85/tsfile/live/1079_1.m3u8?key=txiptv&playlive=0&authid=0
-广西影视,http://222.218.159.81:85/tsfile/live/1080_1.m3u8?key=txiptv&playlive=0&authid=0
-广西新闻,http://222.218.159.81:85/tsfile/live/1083_1.m3u8?key=txiptv&playlive=0&authid=0
+
 
 
 
@@ -68,6 +51,7 @@ tvb星河,http://222.218.159.81:85/tsfile/live/1039_1.m3u8?key=txiptv&playlive=0
 
 
 4K&IPTV,#genre#
+CCTV8K,http://hlslive-tx-cdn.ysp.cctv.cn:80/ysp/2020603421.m3u8
 BesTV电影4K,http://www.17888.fun:10000/udp/239.45.3.107:5140
 百事通电影4K,http://www.17888.fun:10000/rtp/239.45.1.42:5140
 百事通纪实4K,http://www.17888.fun:10000/rtp/239.45.1.10:5140
