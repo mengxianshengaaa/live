@@ -10,7 +10,8 @@ http://cg14.hunancatv.cn:9090/live/CHCGQ_8000.m3u8?deviceid=866265039837531&sid=
 http://cg12.hunancatv.cn:9090/live/CWJD.m3u8?deviceid=866265039837531&sid=Yp6brv0MWYukAl4oJr9yrw%3D%3D&nonce=Ri1TgJg9dlAK&acl=0111&hlsSessionID=1503359536318867014&srchost=172.16.22.158:8060&gid=OHehEP1KV9FqguWiPXrX6Q%3D%3D
 
 
-
+#EXTINF:-1 tvg-id="CCTV8K" tvg-name="CCTV8K" tvg-logo="https://live.fanmingming.com/tv/CCTV8K.png" group-title="4K&IPTV",CCTV8K
+http://hlslive-tx-cdn.ysp.cctv.cn:80/ysp/2020603421.m3u8
 #EXTINF:-1 tvg-id="BesTV" tvg-name="BesTV电影4K" tvg-logo="https://live.fanmingming.com/tv/bestv.png" group-title="4K&IPTV" ,BesTv电影4K
 http://www.17888.fun:10000/udp/239.45.3.107:5140
 #EXTINF:-1 tvg-id="BesTV" tvg-name="百事通电影4K" tvg-logo="https://live.fanmingming.com/tv/bestv.png" group-title="4K&IPTV" ,百事通电影4K
