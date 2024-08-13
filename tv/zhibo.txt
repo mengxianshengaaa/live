@@ -1160,25 +1160,3 @@ Z频道,P2p://generationnexxxt.com:19806/70f52ed474e541f78682604ce0330bf2
 彩虹🌈惊艳台,http://18.svi-studio.com:8880/live/624372101145/418430465490/1.m3u8
 彩虹🌈惊艳台,http://18.svi-studio.com:80/live/176619383282/537544338952/1.m3u8
 彩虹🌈惊艳台,http://18.svi-studio.com:8880/live/908957700097/132663288386/1.m3u8
-特1, https://t21.cdn2020.com/video/m3u8/2023/01/31/2be430ca/index.m3u8
-特2, https://t21.cdn2020.com/video/m3u8/2023/01/19/f34df686/index.m3u8
-特3, https://z100.cdn2020.com/video/m3u8/2020/07/25/2cec522d/index.m3u8
-特4, https://z100.cdn2020.com/video/m3u8/2019/08/12/65be5abc/index.m3u8
-特5, https://z100.cdn2020.com/video/m3u8/2019/08/08/e5176246/index.m3u8
-特6, https://z100.cdn2020.com/video/m3u8/2019/08/06/be9b1731/index.m3u8
-特7, https://z100.cdn2020.com/video/m3u8/2019/08/04/08e177af/index.m3u8
-特8, https://z100.cdn2020.com/video/m3u8/2019/08/03/b5cae98d/index.m3u8
-特9, https://t21.cdn2020.com/video/m3u8/2023/04/21/ef21bff1/index.m3u8
-特10, https://t21.cdn2020.com/video/m3u8/2023/04/19/368d1282/index.m3u8
-特11, https://t21.cdn2020.com/video/m3u8/2023/04/19/85977503/index.m3u8
-特12, https://t21.cdn2020.com/video/m3u8/2023/01/29/e656ed9e/index.m3u8
-特13, https://t21.cdn2020.com/video/m3u8/2023/03/04/67b9ef12/index.m3u8
-特14, https://z100.cdn2020.com/video/m3u8/2020/07/24/07dd89a1/index.m3u8
-特15, https://z100.cdn2020.com/video/m3u8/2020/07/23/7029e94d/index.m3u8
-特16, https://z100.cdn2020.com/video/m3u8/2020/07/19/3105fe90/index.m3u8
-特17, https://z100.cdn2020.com/video/m3u8/2020/07/18/ac0bd0ea/index.m3u8
-特18, https://z100.cdn2020.com/video/m3u8/2020/07/17/9671e301/index.m3u8
-特19, https://z100.cdn2020.com/video/m3u8/2020/07/15/e68fe14f/index.m3u8
-特20, https://z100.cdn2020.com/video/m3u8/2020/07/14/23bdb384/index.m3u8
-特21, https://z100.cdn2020.com/video/m3u8/2020/07/10/0a17f7bf/index.m3u8
-特22, https://z100.cdn2020.com/video/m3u8/2020/07/07/61a670e7/index.m3u8
