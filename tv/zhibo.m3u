@@ -863,14 +863,18 @@ http://iptv.skygogo.cn:18889/rtp/239.49.0.109:8000
 #EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17农业农村" tvg-logo="https://live.fanmingming.com/tv/CCTV17.png" group-title="央视频道",CCTV-17 农业农村
 http://adsl03.ccj.gohome.link:55556/rtp/239.3.1.151:8144
 #EXTINF:-1 tvg-id="CHC动作电影" tvg-name="CHC动作电影" tvg-logo="https://live.fanmingming.com/tv/CHC动作电影.png" group-title="央视频道",CHC动作电影
+http://tencent.live.cbncdn.cn/__cl/cg:live/__c/chcdzdyHD/__op/default/__f/index.m3u8?sig=e7ab0d42fd30a4b49945ae02779d25ed&ext_start_limit=1702890474&int_start_limit=1702890474&expires=1702890474&c=null
 http://ned2188.eicp.net:8888/udp/239.69.1.242:11094
 #EXTINF:-1 tvg-id="CHC动作电影" tvg-name="CHC动作电影(备用)" tvg-logo="https://live.fanmingming.com/tv/CHC动作电影.png" group-title="央视频道",CHC动作电影(备用)
 http://www.foxzhao.cn:4022/udp/239.112.205.207:5140
 #EXTINF:-1 tvg-id="CHC家庭影院" tvg-name="CHC家庭影院" tvg-logo="https://live.fanmingming.com/tv/CHC家庭影院.png" group-title="央视频道",CHC家庭影院
+http://tencent.live.cbncdn.cn/__cl/cg:live/__c/chcjtyyHD/__op/default/__f/index.m3u8?sig=1bd7be978c3cafb305dc232f55e98eaa&ext_start_limit=1702889460&int_start_limit=1702889460&expires=1702889460&c=null
 http://annaxi.lw-home.com:11111/udp/239.253.254.152:8000
 #EXTINF:-1 tvg-id="CHC家庭影院" tvg-name="CHC家庭影院(备用)" tvg-logo="https://live.fanmingming.com/tv/CHC家庭影院.png" group-title="央视频道",CHC家庭影院(备用)
 http://ned2188.eicp.net:8888/udp/239.69.1.243:11100
 #EXTINF:-1 tvg-id="CHC高清电影" tvg-name="CHC影迷电影" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/mengxianshengaaa/live/main/yingmidianying.png" group-title="央视频道",CHC影迷电影
+http://tencent.live.cbncdn.cn/__cl/cg:live/__c/chcgqdyHD/__op/default/__f/index.m3u8?sig=9e65bd818330aa0db26657b3e39f9a9d&ext_start_limit=1702893670&int_start_limit=1702893670&expires=1702893670&c=null
+#EXTINF:-1 tvg-id="CHC高清电影" tvg-name="CHC影迷电影&备用" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/mengxianshengaaa/live/main/yingmidianying.png" group-title="央视频道",CHC影迷电影&备用
 http://117.114.153.18:8180/TV00000000000000000195@HHZT
 http://ned2188.eicp.net:8888/udp/239.69.1.241:11088
 #EXTINF:-1 tvg-id="CHC高清电影" tvg-name="CHC影迷电影（5.1环绕声）" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/mengxianshengaaa/live/main/yingmidianying.png" group-title="央视频道",CHC影迷电影（5.1环绕声）
