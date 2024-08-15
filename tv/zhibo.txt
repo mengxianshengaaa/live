@@ -724,10 +724,10 @@ axn电影,http://117.114.153.18:8180/TV00000000000000000076@HHZT
 纬来育乐,rtmp://f13h.mine.nu/sat/tv701
 纬来日本台,rtmp://f13h.mine.nu/sat/tv771
 momotv,rtmp://f13h.mine.nu/sat/tv761
-翡翠台&多音轨,http://beishan008.asuscomm.com:8889/bysid/1.m3u8
+翡翠台&多音轨,http://120.84.121.234:808/hls/25/index.m3u8
 无线新闻&多音轨,http://zsntlqj.xicp.net:8896/bysid/83.m3u8
 明珠台&多音轨,http://zsntlqj.xicp.net:8896/bysid/2.m3u8
-TVB Plus&多音轨,http://zsntlqj.xicp.net:8896/bysid/82.m3u8
+TVB Plus&多音轨,http://120.84.121.234:808/hls/24/index.m3u8
 ViuTv&多音轨,http://grandprix2023.asuscomm.com:8889/bysid/99
 ViuTv6&多音轨,http://grandprix2023.asuscomm.com:8889/bysid/96
 
