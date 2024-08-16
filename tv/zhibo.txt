@@ -86,7 +86,7 @@ CETV4空中课堂, http://tencent.live.cbncdn.cn/__cl/cg:live/__c/cetv-4SD/__op/
 重庆新农村, http://tencent.live.cbncdn.cn/__cl/cg:live/__c/cqggncHD/__op/default/__f/index.m3u8?sig=ad55431cef3a9ac6da2df2970e0c29f8&ext_start_limit=1702891846&int_start_limit=1702891846&expires=1702891846&c=null
 
 4K&IPTV,#genre#
-CCTV4K超高清,http://cqcu3.live.cbncdn.cn/session/124bd208-5a95-11ef-a3ce-5254003e6f6f$h1.0$live.cbncdn.cn/pj9p9p/__cl/cg:live/__c/CCTV4K/__op/default/__f/index.m3u8?token=b4c0eace68442b1dd60b6ffa22a9da86_1723764577_1723764577
+CCTV4K超高清,http://116.148.164.119/hlslive-tx-cdn.ysp.cctv.cn:80/ysp/2024081303.m3u8
 CCTV8K超高清,http://116.148.164.119/bktlivecloud-cdn.ysp.cctv.cn/ysp/2020603421.m3u8
 CCTV8K超高清,http://116.148.164.119/hlslive-tx-cdn.ysp.cctv.cn:80/ysp/2020603421.m3u8
 BesTV电影4K,http://www.17888.fun:10000/udp/239.45.3.107:5140
