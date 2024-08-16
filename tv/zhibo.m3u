@@ -1213,4 +1213,49 @@ http://zsntlqj.xicp.net:8896/bysid/82.m3u8
 http://grandprix2023.asuscomm.com:8889/bysid/99
 #EXTINF:-1 tvg-id="ViuTv 6台" tvg-name="ViuTv6&多音轨" tvg-logo="https://live.fanmingming.com/tv/viutv.png" group-title="大陆外（部分网络无法使用）",ViuTv6&多音轨（港）
 http://grandprix2023.asuscomm.com:8889/bysid/96
+#EXTINF:-1,tvg-id="Cnbc new" tvg-name="Cnbc new" tvg-logo="https://epg.112114.xyz/logo/CNBCNEW.png" group-title="测试频道",Cnbc new
+http://125.227.210.55:8152/VideoInput/play.ts
+#EXTINF:-1,tvg-id="驚艷臺" tvg-name="驚艷臺" tvg-logo="https://epg.112114.xyz/logo/驚艷臺.png" group-title="测试频道",驚艷臺
+http://125.227.210.55:8156/VideoInput/play.ts
+#EXTINF:-1,tvg-id="香蕉臺" tvg-name="香蕉臺" tvg-logo="https://epg.112114.xyz/logo/香蕉臺.png" group-title="测试频道",香蕉臺
+http://125.227.210.55:8159/VideoInput/play.ts
+#EXTINF:-1,tvg-id="BLOOMBERGTV" tvg-name="BLOOMBERGTV" tvg-logo="https://epg.112114.xyz/logo/BLOOMBERGTV.png" group-title="测试频道",Bloomberg
+http://125.227.210.55:8161/VideoInput/play.ts
+#EXTINF:-1,tvg-id="BBC new" tvg-name="BBC new" tvg-logo="https://epg.112114.xyz/logo/BBCNEW.png" group-title="测试频道",BBC new
+http://125.227.210.55:8165/VideoInput/play.ts
+#EXTINF:-1,tvg-id="CNN" tvg-name="CNN" tvg-logo="https://epg.112114.xyz/logo/CNN.png" group-title="测试频道",CNN new
+http://125.227.210.55:8166/VideoInput/play.ts
+#EXTINF:-1,tvg-id="CN卡通" tvg-name="CN卡通" tvg-logo="https://epg.112114.xyz/logo/CN卡通.png" group-title="测试频道",CN卡通
+http://125.227.210.55:8167/VideoInput/play.ts
+#EXTINF:-1,tvg-id="TVRI" tvg-name="TVRI" tvg-logo="https://epg.112114.xyz/logo/TVRI.png" group-title="测试频道",TVRI
+http://125.227.210.55:8172/VideoInput/play.ts
+#EXTINF:-1,tvg-id="FOODNETWORK美食台" tvg-name="FOODNETWORK美食台" tvg-logo="https://epg.112114.xyz/logo/FOODNETWORK美食台.png" group-title="测试频道",NET
+http://125.227.210.55:8173/VideoInput/play.ts
+#EXTINF:-1,tvg-id="日本A" tvg-name="日本A" tvg-logo="https://epg.112114.xyz/logo/日本A.png" group-title="测试频道",日本A
+http://125.227.210.55:8201/VideoInput/play.ts
+#EXTINF:-1,tvg-id="奧視3" tvg-name="奧視3" tvg-logo="https://epg.112114.xyz/logo/奧視3.png" group-title="测试频道",奧視3
+http://125.227.210.55:8203/VideoInput/play.ts
+#EXTINF:-1,tvg-id="日本B" tvg-name="日本B" tvg-logo="https://epg.112114.xyz/logo/日本B.png" group-title="测试频道",日本B
+http://125.227.210.55:8205/VideoInput/play.ts
+#EXTINF:-1,tvg-id="TV5臺" tvg-name="TV5臺" tvg-logo="https://epg.112114.xyz/logo/TV5臺.png" group-title="测试频道",TV5臺
+http://125.227.210.55:15533/VideoInput/play.ts
+#EXTINF:-1,tvg-id="YTN臺" tvg-name="YTN臺" tvg-logo="https://epg.112114.xyz/logo/YTN臺.png" group-title="测试频道",YTN臺
+http://125.227.210.55:17478/VideoInput/play.ts
+#EXTINF:-1,tvg-id="NHK" tvg-name="NHK" tvg-logo="https://epg.112114.xyz/logo/NHK.png" group-title="测试频道",NHK JAPAN臺
+http://125.227.210.55:35802/VideoInput/play.ts
+#EXTINF:-1,tvg-id="PBS臺" tvg-name="PBS臺" tvg-logo="https://epg.112114.xyz/logo/PBS臺.png" group-title="测试频道",PBS臺
+http://125.227.210.55:36950/VideoInput/play.ts
+#EXTINF:-1,tvg-id="DW" tvg-name="DW" tvg-logo="https://epg.112114.xyz/logo/DW.png" group-title="测试频道",DW臺
+http://125.227.210.55:42534/VideoInput/play.ts
+#EXTINF:-1,tvg-id="KOREA臺" tvg-name="KOREA臺" tvg-logo="https://epg.112114.xyz/logo/KOREA臺.png" group-title="测试频道",KOREA臺
+http://125.227.210.55:48553/VideoInput/play.ts
+#EXTINF:-1,tvg-id="Mainu臺" tvg-name="Mainu臺" tvg-logo="https://epg.112114.xyz/logo/MAINU臺.png" group-title="测试频道",Mainu臺
+http://125.227.210.55:51359/VideoInput/play.ts
+#EXTINF:-1,tvg-id="NHK" tvg-name="NHK" tvg-logo="https://epg.112114.xyz/logo/NHK.png" group-title="测试频道",NHK BSP
+http://125.227.210.55:60116/VideoInput/play.ts
+
+
+
+
+
 
